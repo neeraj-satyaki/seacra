@@ -1,0 +1,56 @@
+body {
+  background: black;
+}
+
+.lol {
+  width: 330px;
+  height: 330px;
+  /* border: 1px solid rgb(129, 233, 115); */
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto;
+  border-radius: 50%;
+}
+.progress{
+  stroke: white;
+  fill: none;
+  stroke-width: 1;
+  stroke-dasharray: 1100;
+  stroke-dashoffset: 100;
+}
+.circle  {
+  width: 30px;
+  height: 30px;
+  background: rgb(0, 255, 13);
+  border-radius: 50%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  bottom: 0px;
+  right: 0px;
+  overflow: hidden;
+  margin: auto;
+  -webkit-animation: circle 4s linear 2;
+  animation: circle 4s linear 2;
+}
+
+@-webkit-keyframes circle{
+  0%{
+    transform: rotate(0deg)translate(-160px)rotate(0deg);
+  }
+  100%{
+    transform: rotate(360deg)translate(-165px)rotate(-360deg);
+  }
+}
+
+@keyframes circle{
+  0%{
+    transform: rotate(0deg)translate(-165px) rotate(0deg) ;
+  }
+  100%{
+    transform: rotate(360deg)translate(-165px) rotate(-360deg) ;
+  }
+}

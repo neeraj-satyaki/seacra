@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+  <title>Circle ANimated</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css" />
+  <body>
+    <div class="w3-container w3-red">
+      <h1>Circle Animation</h1>
+    </div>
+    <style>
+      .main {
+        width: 330px;
+        height: 330px;
+        border: 1px solid #cc4e61;
+        position: relative;
+        /*         top: 4355px; */
+        /*         bottom: 360px; */
+        top: -304px;
+        left: 0;
+        right: 0;
+        margin: auto;
+        border-radius: 50%;
+        /*     animation: circle 6s linear infinite; */
+      }
+      .circle {
+        width: 10px;
+        height: 10px;
+        background: #cc4e61;
+        border-radius: 50%;
+        position: relative;
+        top: 160px;
+        bottom: -10px;
+        left: 0;
+        right: 0;
+        overflow: hidden;
+        margin: auto;
+        animation: circle 6s linear infinite;
+      }
+      @keyframes circle {
+        0% {
+          transform: rotate(0deg) translate(-165px) rotate(0deg);
+        }
+        100% {
+          transform: rotate(360deg) translate(-165px) rotate(-360deg);
+        }
+      }
+    </style>
+    <canvas
+      id="myCanvas"
+      width="1500"
+      height="900"
+      style="font-size: 200px; color: red"
+    ></canvas>
+    </style>
+    <div class="main">
+      <div class="circle"></div>
+    </div>
+    <script>
+      var canvas = document.getElementById("myCanvas");
+      var canvasWidth = canvas.width;
+      var canvasHeight = canvas.height;
+      var ctx = canvas.getContext("2d");
+      var canvasData = ctx.getImageData(0, 0, canvasWidth, canvasHeight);
+      console.log(canvas, canvasData, canvasHeight, canvasWidth, ctx);
+
+      function sleep(ms) {
+        return new Promise((resolve) => setTimeout(resolve, ms));
+      }
+
+      function drawPixel(x, y, sizeX, sizeY) {
+        ctx.fillRect(x, y, sizeX, sizeY);
+      }
+
+      function drawPoint(x, y, point_size, label) {
+        ctx.beginPath();
+        ctx.arc(x, y, point_size, 0, 2 * Math.PI);
+        ctx.fill();
+
+        ctx.font = "200px";
+        ctx.fillText(label, x + 10, y);
+      }
+
+      async function drawCircle(xCenter, yCenter, radius) {
+        var j = 0,
+          k = 0;
+        for (i = 0; i < 2 * 3.14; i += 1 / radius) {
+          x = xCenter + radius * Math.cos(i);
+          y = yCenter + radius * Math.sin(i);
+
+          if (i.toFixed(2) == j.toFixed(2)) {
+            j += 3.14 / 4;
+            drawPoint(x + 0.5, y, 10, "  A");
+            console.log(i, j);
+          }
+
+          await sleep(0.0001);
+          drawPixel(x, y, 2, 2);
+          // drawPoint(x, y, 4, 'A');
+        }
+      }
+
+      drawCircle(400, 400, 300);
+    </script>
+  </body>
+</html>
