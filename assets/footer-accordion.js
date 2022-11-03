@@ -1,4 +1,3 @@
-
 class FooterAccordion extends HTMLElement {
   constructor() {
     super();

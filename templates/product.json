@@ -10,27 +10,22 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "breadcrumb": {
-          "type": "breadcrumb",
-          "settings": {
-            "text_style": "uppercase",
-            "show_divider": true
-          }
-        },
-        "vendor": {
+        "11c6dbd7-bd57-4ec0-b884-3e18e54f1d06": {
           "type": "text",
           "settings": {
             "icon": "none",
-            "text": "{{ product.vendor }}",
-            "text_style": "uppercase"
+            "text": "Clinically proven Acne & Rosacea Treatment Recovery & Repair Gel",
+            "text_style": "body"
           }
         },
-        "title": {
-          "type": "title",
+        "f83d0df1-bd80-4aae-b603-a5e63cb670a3": {
+          "type": "shopify:\/\/apps\/product-reviews\/blocks\/star_rating\/bae150af-8da8-48b2-9867-398188115e5f",
           "settings": {
-            "title_size": "h2",
-            "show_price": false,
-            "price_size": "medium"
+            "stars_fill_color": "#000000",
+            "star_size": 15,
+            "text_align": "flex-start",
+            "product": "{{product}}",
+            "stars_text_empty": "No reviews"
           }
         },
         "rating": {
@@ -42,6 +37,22 @@
           "settings": {
             "price_size": "medium",
             "show_badges": true
+          }
+        },
+        "6cc92df5-bb5a-4322-a063-294f8db0de85": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": "Clinically proven results. 100% natural ingredients. Innovative red algae gel suitable for the face and body",
+            "text_style": "body"
+          }
+        },
+        "d6aa1843-1cdb-4d69-8b40-1585243892c1": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": "A lightweight, nourishing, natural gel that alters the way your skin behaves.Everyone deserves to love their skin. Prescription medications target one problem, while creating another. We target your skin problems, without creating more. Welcome to the world of effective skincare with no side-effects.Clinically-proven to target acne and rosacea all while working as a super-hydrator to give you a five-star glow.We use an innovative cold-pressing technique to extract the bio-active compound in red-algae which is the superfood for your skin. The active compound in red-algae boasts an internal healing process, encouraging your cell to produce healthy cells and healthy skin all by itself. Sound too good to be true? Read on.",
+            "text_style": "body"
           }
         },
         "countdown": {
@@ -58,10 +69,17 @@
           "type": "variant_picker",
           "settings": {
             "show_variant_labels": true,
-            "picker_type": "button",
-            "enable_color_swatches": true,
+            "picker_type": "dropdown",
+            "enable_color_swatches": false,
             "swatch_type": "round",
             "size_chart": ""
+          }
+        },
+        "bbd7f3e5-5233-463a-b7f3-b98b3bf56f90": {
+          "type": "shopify:\/\/apps\/variant-option-product-options\/blocks\/block\/430cbd7b-bd20-4c16-ba41-db6f4c645164",
+          "settings": {
+            "product": "clinically-proven-acne-rosacea-treatment-recovery-repair-gel",
+            "font_color": "#cc4e61"
           }
         },
         "description": {
@@ -72,7 +90,7 @@
           "type": "collapsible_tab",
           "settings": {
             "icon": "none",
-            "heading": "1. Collapsible tab",
+            "heading": "Clinically Proven Benefits",
             "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
@@ -81,16 +99,27 @@
           "type": "collapsible_tab",
           "settings": {
             "icon": "none",
-            "heading": "2. Collapsible tab",
+            "heading": "Clinical Test Results",
             "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
-        "buy_buttons": {
-          "type": "buy_buttons",
+        "b614b12e-d717-4a3e-8355-2e97f00bad19": {
+          "type": "collapsible_tab",
           "settings": {
-            "show_quantity_selector": false,
-            "show_dynamic_checkout": true
+            "icon": "none",
+            "heading": "Key Ingrediants",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.<\/p><p>Ex: Shipping and return policies, size guides, and other common questions.<\/p>",
+            "page": ""
+          }
+        },
+        "00ea7a04-46c4-4e7e-a166-ce18326f5276": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "How to use",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.<\/p><p>Ex: Shipping and return policies, size guides, and other common questions.<\/p>",
+            "page": ""
           }
         },
         "inventory_status": {
@@ -101,10 +130,11 @@
             "color_scheme": "accent-3"
           }
         },
-        "share": {
-          "type": "share",
+        "buy_buttons": {
+          "type": "buy_buttons",
           "settings": {
-            "share_label": "Share"
+            "show_quantity_selector": false,
+            "show_dynamic_checkout": true
           }
         },
         "related_buttons": {
@@ -122,19 +152,22 @@
         }
       },
       "block_order": [
-        "breadcrumb",
-        "vendor",
-        "title",
+        "11c6dbd7-bd57-4ec0-b884-3e18e54f1d06",
+        "f83d0df1-bd80-4aae-b603-a5e63cb670a3",
         "rating",
         "price",
+        "6cc92df5-bb5a-4322-a063-294f8db0de85",
+        "d6aa1843-1cdb-4d69-8b40-1585243892c1",
         "countdown",
         "variant_picker",
+        "bbd7f3e5-5233-463a-b7f3-b98b3bf56f90",
         "description",
         "collapsible_tab-0",
         "collapsible_tab-1",
-        "buy_buttons",
+        "b614b12e-d717-4a3e-8355-2e97f00bad19",
+        "00ea7a04-46c4-4e7e-a166-ce18326f5276",
         "inventory_status",
-        "share",
+        "buy_buttons",
         "related_buttons",
         "sticky_cart"
       ],
@@ -154,122 +187,272 @@
         "padding_bottom": 72
       }
     },
-    "scrolling-promotion": {
-      "type": "scrolling-promotion",
+    "1667212716ddee2c5e": {
+      "type": "apps",
       "blocks": {
-        "announcement-0": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "FREE SHIPPING on all orders over $100",
-            "text_size": 16,
-            "link": ""
-          }
+        "c2449115-0aad-4c65-8767-aea28511d7d9": {
+          "type": "shopify:\/\/apps\/product-reviews\/blocks\/reviews\/bae150af-8da8-48b2-9867-398188115e5f",
+          "settings": {}
         },
-        "announcement-1": {
-          "type": "announcement",
+        "855c6646-03ed-4be6-b2a6-dd9bffd10b58": {
+          "type": "shopify:\/\/apps\/variant-option-product-options\/blocks\/block\/430cbd7b-bd20-4c16-ba41-db6f4c645164",
           "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "EASY RETURNS 30-day postage paid returns",
-            "text_size": 16,
-            "link": ""
-          }
-        },
-        "announcement-3": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "10% OFF your first order | Use code: FIRST10",
-            "text_size": 16,
-            "link": ""
+            "product": "",
+            "font_color": ""
           }
         }
       },
       "block_order": [
-        "announcement-0",
-        "announcement-1",
-        "announcement-3"
+        "c2449115-0aad-4c65-8767-aea28511d7d9",
+        "855c6646-03ed-4be6-b2a6-dd9bffd10b58"
       ],
       "settings": {
-        "direction": "left",
-        "speed": 1.6,
+        "include_margins": true,
         "show_divider": false,
-        "use_custom_colors": true,
-        "colors_icon": "#f1ff34",
-        "colors_text": "#212326",
-        "colors_background": "#f2f2f2",
-        "gradient_background": "",
-        "padding_top": 28,
-        "padding_bottom": 28
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
-    "guarantees": {
+    "b5c45e64-dda1-4ef2-a39e-c889255c9c5c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16735531401527__b5c45e64-dda1-4ef2-a39e-c889255c9c5c-1667213400d103a0b2-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Skin Microbiome",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        },
+        "template--16735531401527__b5c45e64-dda1-4ef2-a39e-c889255c9c5c-1667213400d103a0b2-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>An imbalance in the skin's microbiome will lead to upsetting issues like acne, rosacea, dryness, eczema, and more.<br\/><br\/>Think about that perfectly soft, smooth skin you see on babies – their microbiome has not been altered by the environment, hormones, or chemicals.<br\/><br\/>So, when people talk and search for glowing, smooth skin… what they are really searching for is healthy skin. <br\/><br\/>Skin that has the ideal microbiome balance.<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16735531401527__b5c45e64-dda1-4ef2-a39e-c889255c9c5c-1667213400d103a0b2-0",
+        "template--16735531401527__b5c45e64-dda1-4ef2-a39e-c889255c9c5c-1667213400d103a0b2-1"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "3be18c52-0a34-465f-8b61-80c3e1adfc2c": {
+      "type": "image-comparison",
+      "blocks": {
+        "template--16735531401527__3be18c52-0a34-465f-8b61-80c3e1adfc2c-16672142257d4e28f4-0": {
+          "type": "look",
+          "settings": {
+            "title": "",
+            "title_size": "small",
+            "title_position": "start"
+          }
+        },
+        "template--16735531401527__3be18c52-0a34-465f-8b61-80c3e1adfc2c-16672142257d4e28f4-1": {
+          "type": "look",
+          "settings": {
+            "title": "",
+            "title_size": "small",
+            "title_position": "start"
+          }
+        }
+      },
+      "block_order": [
+        "template--16735531401527__3be18c52-0a34-465f-8b61-80c3e1adfc2c-16672142257d4e28f4-0",
+        "template--16735531401527__3be18c52-0a34-465f-8b61-80c3e1adfc2c-16672142257d4e28f4-1"
+      ],
+      "settings": {
+        "layout": "horizontal",
+        "image_ratio": "650px",
+        "mobile_image_ratio": "auto",
+        "full_width": false,
+        "show_divider": false,
+        "heading": "How you change the way your skin behaves?",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "colors_line": "#ffffff",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "d629086e-0d70-4b37-a211-d39e86466e82": {
+      "type": "video",
+      "settings": {
+        "video_url": "",
+        "description": "PURE GOLD IN A BOTTLE",
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "bc5d9735-5a1e-4646-8ca3-6c6f651fca00": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16735531401527__bc5d9735-5a1e-4646-8ca3-6c6f651fca00-1667214498a8a4ee47-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--16735531401527__bc5d9735-5a1e-4646-8ca3-6c6f651fca00-1667214498a8a4ee47-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Find out why 97% of women love our Recovery & Repair Gel here<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "template--16735531401527__bc5d9735-5a1e-4646-8ca3-6c6f651fca00-1667214498a8a4ee47-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "See Reviews",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16735531401527__bc5d9735-5a1e-4646-8ca3-6c6f651fca00-1667214498a8a4ee47-0",
+        "template--16735531401527__bc5d9735-5a1e-4646-8ca3-6c6f651fca00-1667214498a8a4ee47-1",
+        "template--16735531401527__bc5d9735-5a1e-4646-8ca3-6c6f651fca00-1667214498a8a4ee47-2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "cf3c9b19-4259-4499-bded-ae4c9a246db2": {
       "type": "guarantees",
       "blocks": {
-        "guarantee-0": {
+        "template--16735531401527__cf3c9b19-4259-4499-bded-ae4c9a246db2-1667219232d1a023a6-0": {
           "type": "guarantee",
+          "disabled": true,
           "settings": {
-            "icon": "leaf",
+            "icon": "package",
             "icon_size": "medium",
             "custom_icon": "",
             "title": "Guarantee heading",
-            "title_size": "h4",
+            "title_size": "h3",
             "text": "<p>Welcome to our store.<\/p>"
           }
         },
-        "guarantee-1": {
+        "e2f47bdb-3f44-4c7a-b655-5301f2677461": {
           "type": "guarantee",
           "settings": {
-            "icon": "globe",
+            "icon": "truck",
             "icon_size": "medium",
             "custom_icon": "",
-            "title": "Guarantee heading",
-            "title_size": "h4",
-            "text": "<p>Welcome to our store.<\/p>"
+            "title": "Fragrance Free",
+            "title_size": "h3",
+            "text": "<p>All our products are Fragrancefree, making them suitable for allskin types.<\/p>"
           }
         },
-        "guarantee-2": {
+        "9160afbb-52be-473a-a642-5d6519797db4": {
           "type": "guarantee",
           "settings": {
-            "icon": "recycle",
+            "icon": "truck",
             "icon_size": "medium",
             "custom_icon": "",
-            "title": "Guarantee heading",
-            "title_size": "h4",
-            "text": "<p>Welcome to our store.<\/p>"
+            "title": "Vegan",
+            "title_size": "h3",
+            "text": "<p>All our products are suitable for<br\/>vegans.<\/p>"
           }
         },
-        "guarantee-3": {
+        "6d8af672-dc67-4020-a175-e2be2f6679b9": {
           "type": "guarantee",
           "settings": {
-            "icon": "shield",
+            "icon": "truck",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Suitable for all skin types",
+            "title_size": "h3",
+            "text": "<p>Our products are suitable for all skin types from sensitive to oily skin.<\/p>"
+          }
+        },
+        "d8c82f6c-21b2-4594-b140-6a029dc56e6d": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "truck",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Natural Ingredients",
+            "title_size": "h3",
+            "text": "<p>We use high-quality, natural<br\/>ingredients in all our products.<br\/>No compromises<\/p>"
+          }
+        },
+        "template--16735531401527__cf3c9b19-4259-4499-bded-ae4c9a246db2-1667219232d1a023a6-1": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "truck",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Cruelty Free",
+            "title_size": "h3",
+            "text": "<p>We’ve never tested an animals<br\/>and never will.<\/p>"
+          }
+        },
+        "3ee72081-f828-4bfe-840a-ff5e55981c3f": {
+          "type": "guarantee",
+          "disabled": true,
+          "settings": {
+            "icon": "truck",
             "icon_size": "medium",
             "custom_icon": "",
             "title": "Guarantee heading",
-            "title_size": "h4",
+            "title_size": "h3",
             "text": "<p>Welcome to our store.<\/p>"
           }
         }
       },
       "block_order": [
-        "guarantee-0",
-        "guarantee-1",
-        "guarantee-2",
-        "guarantee-3"
+        "template--16735531401527__cf3c9b19-4259-4499-bded-ae4c9a246db2-1667219232d1a023a6-0",
+        "e2f47bdb-3f44-4c7a-b655-5301f2677461",
+        "9160afbb-52be-473a-a642-5d6519797db4",
+        "6d8af672-dc67-4020-a175-e2be2f6679b9",
+        "d8c82f6c-21b2-4594-b140-6a029dc56e6d",
+        "template--16735531401527__cf3c9b19-4259-4499-bded-ae4c9a246db2-1667219232d1a023a6-1",
+        "3ee72081-f828-4bfe-840a-ff5e55981c3f"
       ],
       "settings": {
         "layout": "default",
         "column_alignment": "center",
         "horizontal_content": false,
-        "full_width": true,
+        "full_width": false,
         "show_divider": false,
-        "heading": "Guarantees",
+        "heading": "",
         "heading_size": "h1",
         "heading_tag": "h2",
         "columns_mobile": "1",
@@ -279,44 +462,717 @@
         "colors_text": "#1a1b18",
         "colors_background": "#ffffff",
         "gradient_background": "",
-        "padding_top": 72,
+        "padding_top": 36,
         "padding_bottom": 36
       }
     },
-    "collapsible-content": {
-      "type": "collapsible-content",
+    "eaf53d06-190c-4146-8e1c-9f2ec57ab1ae": {
+      "type": "rich-text",
       "blocks": {
-        "question-0": {
-          "type": "collapsible_row",
-          "settings": {}
+        "template--16735531401527__eaf53d06-190c-4146-8e1c-9f2ec57ab1ae-16672229431df4a232-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "It’s as simple as it’s natural And it works.",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
         },
-        "question-1": {
-          "type": "collapsible_row",
-          "settings": {}
-        },
-        "question-2": {
-          "type": "collapsible_row",
-          "settings": {}
-        },
-        "question-3": {
-          "type": "collapsible_row",
-          "settings": {}
+        "template--16735531401527__eaf53d06-190c-4146-8e1c-9f2ec57ab1ae-16672229431df4a232-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
         }
       },
       "block_order": [
-        "question-0",
-        "question-1",
-        "question-2",
-        "question-3"
+        "template--16735531401527__eaf53d06-190c-4146-8e1c-9f2ec57ab1ae-16672229431df4a232-0",
+        "template--16735531401527__eaf53d06-190c-4146-8e1c-9f2ec57ab1ae-16672229431df4a232-2"
       ],
       "settings": {
-        "open_first_collapsible_row": false,
-        "narrow": true,
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
         "show_divider": false,
-        "heading": "FAQs",
+        "use_custom_colors": false,
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "d8f74681-c431-4e3c-a3f6-4abc899cb2be": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16735531401527__d8f74681-c431-4e3c-a3f6-4abc899cb2be-1667223238241c56a8-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--16735531401527__d8f74681-c431-4e3c-a3f6-4abc899cb2be-1667223238241c56a8-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "template--16735531401527__d8f74681-c431-4e3c-a3f6-4abc899cb2be-1667223238241c56a8-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16735531401527__d8f74681-c431-4e3c-a3f6-4abc899cb2be-1667223238241c56a8-0",
+        "template--16735531401527__d8f74681-c431-4e3c-a3f6-4abc899cb2be-1667223238241c56a8-1",
+        "template--16735531401527__d8f74681-c431-4e3c-a3f6-4abc899cb2be-1667223238241c56a8-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/budget-and-finance-tracking.jpg",
+        "image_position": "center center",
+        "text_box_position": "middle-center",
+        "text_alignment": "center",
+        "image_ratio": "650px",
+        "show_text_box": false,
+        "full_width": true,
+        "show_divider": false,
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "auto",
+        "stack_images_on_mobile": true,
+        "show_text_below": true,
+        "colors_text": "#ffffff",
+        "colors_overlay": "#000000",
+        "colors_overlay_opacity": 28,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "79e501e3-2a3f-44c3-b368-8aca0d57e499": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16735531401527__79e501e3-2a3f-44c3-b368-8aca0d57e499-16672229431df4a232-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "No more bad skin days. Ever.",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        },
+        "template--16735531401527__79e501e3-2a3f-44c3-b368-8aca0d57e499-16672229431df4a232-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Why suffer side-effects when you don’t have to?<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "template--16735531401527__79e501e3-2a3f-44c3-b368-8aca0d57e499-16672229431df4a232-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16735531401527__79e501e3-2a3f-44c3-b368-8aca0d57e499-16672229431df4a232-0",
+        "template--16735531401527__79e501e3-2a3f-44c3-b368-8aca0d57e499-16672229431df4a232-1",
+        "template--16735531401527__79e501e3-2a3f-44c3-b368-8aca0d57e499-16672229431df4a232-2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "8a59d8ca-abbd-4c0b-9442-2eb632dc85f0": {
+      "type": "testimonials",
+      "blocks": {
+        "template--16735531401527__8a59d8ca-abbd-4c0b-9442-2eb632dc85f0-1667223633443688f8-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>“The redness in my skin is gone after using the gel consistantly over the past 5 weeks.<br\/>I’am so happy and satisfied with the results!”<\/p>",
+            "author": ""
+          }
+        },
+        "template--16735531401527__8a59d8ca-abbd-4c0b-9442-2eb632dc85f0-1667223633443688f8-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>“The redness in my skin is gone after using the gel consistantly over the past 5 weeks.<br\/>I’am so happy and satisfied with the results!”<\/p>",
+            "author": ""
+          }
+        },
+        "b6d62cec-3672-451f-903d-d394e5441a97": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>“The redness in my skin is gone after using the gel consistantly over the past 5 weeks.<br\/>I’am so happy and satisfied with the results!”<\/p>",
+            "author": ""
+          }
+        },
+        "fbf32126-d8e9-4ddd-ba5a-fe363a14b3b9": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>“The redness in my skin is gone after using the gel consistantly over the past 5 weeks.<br\/>I’am so happy and satisfied with the results!”<\/p>",
+            "author": ""
+          }
+        },
+        "template--16735531401527__8a59d8ca-abbd-4c0b-9442-2eb632dc85f0-1667223633443688f8-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>“The redness in my skin is gone after using the gel consistantly over the past 5 weeks.<br\/>I’am so happy and satisfied with the results!”<\/p>",
+            "author": ""
+          }
+        },
+        "a248d3ee-681f-43ff-add8-8ecf41725a69": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>“The redness in my skin is gone after using the gel consistantly over the past 5 weeks.<br\/>I’am so happy and satisfied with the results!”<\/p>",
+            "author": ""
+          }
+        },
+        "template--16735531401527__8a59d8ca-abbd-4c0b-9442-2eb632dc85f0-1667223633443688f8-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>“The redness in my skin is gone after using the gel consistantly over the past 5 weeks.<br\/>I’am so happy and satisfied with the results!”<\/p>",
+            "author": ""
+          }
+        },
+        "template--16735531401527__8a59d8ca-abbd-4c0b-9442-2eb632dc85f0-1667223633443688f8-4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>“The redness in my skin is gone after using the gel consistantly over the past 5 weeks.<br\/>I’am so happy and satisfied with the results!”<\/p>",
+            "author": ""
+          }
+        },
+        "77852c6c-b7aa-4bbd-a7ed-bd8a17d9f686": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
+            "author": "Author"
+          }
+        }
+      },
+      "block_order": [
+        "template--16735531401527__8a59d8ca-abbd-4c0b-9442-2eb632dc85f0-1667223633443688f8-0",
+        "template--16735531401527__8a59d8ca-abbd-4c0b-9442-2eb632dc85f0-1667223633443688f8-1",
+        "b6d62cec-3672-451f-903d-d394e5441a97",
+        "fbf32126-d8e9-4ddd-ba5a-fe363a14b3b9",
+        "template--16735531401527__8a59d8ca-abbd-4c0b-9442-2eb632dc85f0-1667223633443688f8-2",
+        "a248d3ee-681f-43ff-add8-8ecf41725a69",
+        "template--16735531401527__8a59d8ca-abbd-4c0b-9442-2eb632dc85f0-1667223633443688f8-3",
+        "template--16735531401527__8a59d8ca-abbd-4c0b-9442-2eb632dc85f0-1667223633443688f8-4",
+        "77852c6c-b7aa-4bbd-a7ed-bd8a17d9f686"
+      ],
+      "settings": {
+        "autorotate": true,
+        "autorotate_speed": 5,
+        "show_divider": false,
+        "heading": "Customer Reviews",
         "heading_size": "h1",
         "heading_alignment": "center",
         "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "89c13837-e162-4ce4-92e2-decf9322100f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16735531401527__89c13837-e162-4ce4-92e2-decf9322100f-1667224541b8ff2012-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "5 Reasons to choose Seacra",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        },
+        "template--16735531401527__89c13837-e162-4ce4-92e2-decf9322100f-1667224541b8ff2012-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16735531401527__89c13837-e162-4ce4-92e2-decf9322100f-1667224541b8ff2012-0",
+        "template--16735531401527__89c13837-e162-4ce4-92e2-decf9322100f-1667224541b8ff2012-2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "b59d3221-34f8-495c-88c7-9d7b1dddc84d": {
+      "type": "guarantees",
+      "blocks": {
+        "ec200a1f-ab19-4c9f-962b-d3c59313b485": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Guarantee heading",
+            "title_size": "h3",
+            "text": "<p>Welcome to our store.<\/p>"
+          }
+        },
+        "e9dd1483-a1b9-4f1f-869d-d532b7488d6e": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "truck",
+            "icon_size": "small",
+            "custom_icon": "",
+            "title": "",
+            "title_size": "h4",
+            "text": "<p>Clinically proven. <br\/>100% natural. <br\/>Zero side effects<\/p>"
+          }
+        },
+        "e69b9a9c-45f0-4b86-9a06-13670e5277cf": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "truck",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "",
+            "title_size": "h4",
+            "text": "<p>It doesn’t damage your skin <br\/>or cell production. If you stop <br\/>using our gel, your skin<br\/> won’t be damaged<\/p>"
+          }
+        },
+        "dd248583-8f1b-4564-8956-d14bbf6f6aeb": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "truck",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "",
+            "title_size": "h4",
+            "text": "<p>High-quality, organic, <br\/>sustainable ingredients.<\/p>"
+          }
+        },
+        "template--16735531401527__b59d3221-34f8-495c-88c7-9d7b1dddc84d-1667224622664a06b6-0": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "truck",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "",
+            "title_size": "h4",
+            "text": "<p>There’s no adjustment period, <br\/>no purging or irritation <br\/>just beautiful skin all the way<\/p>"
+          }
+        },
+        "template--16735531401527__b59d3221-34f8-495c-88c7-9d7b1dddc84d-1667224622664a06b6-1": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "truck",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "",
+            "title_size": "h4",
+            "text": "<p>It amplifies the benefit <br\/>of any other product <br\/>in your skin regimen<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "ec200a1f-ab19-4c9f-962b-d3c59313b485",
+        "e9dd1483-a1b9-4f1f-869d-d532b7488d6e",
+        "e69b9a9c-45f0-4b86-9a06-13670e5277cf",
+        "dd248583-8f1b-4564-8956-d14bbf6f6aeb",
+        "template--16735531401527__b59d3221-34f8-495c-88c7-9d7b1dddc84d-1667224622664a06b6-0",
+        "template--16735531401527__b59d3221-34f8-495c-88c7-9d7b1dddc84d-1667224622664a06b6-1"
+      ],
+      "settings": {
+        "layout": "default",
+        "column_alignment": "center",
+        "horizontal_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "use_custom_colors": false,
+        "colors_icon": "#ffffff",
+        "colors_text": "#1a1b18",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "515296d3-8b06-4759-b64f-cf294d46082f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16735531401527__515296d3-8b06-4759-b64f-cf294d46082f-1667224541b8ff2012-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "We’re confident that you’ll love our Recovery & Refill Gel",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        },
+        "template--16735531401527__515296d3-8b06-4759-b64f-cf294d46082f-1667224541b8ff2012-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16735531401527__515296d3-8b06-4759-b64f-cf294d46082f-1667224541b8ff2012-0",
+        "template--16735531401527__515296d3-8b06-4759-b64f-cf294d46082f-1667224541b8ff2012-2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "8d3aaa9b-8583-45bc-baec-03d5b4e2d407": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16735531401527__8d3aaa9b-8583-45bc-baec-03d5b4e2d407-16672245863c8d67d6-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2022-10-20_at_3.14.png",
+            "title": "",
+            "title_size": "h3",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "template--16735531401527__8d3aaa9b-8583-45bc-baec-03d5b4e2d407-16672245863c8d67d6-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2022-10-20_at_3.14_1.png",
+            "title": "",
+            "title_size": "h3",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "template--16735531401527__8d3aaa9b-8583-45bc-baec-03d5b4e2d407-16672245863c8d67d6-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2022-10-20_at_3.13.png",
+            "title": "",
+            "title_size": "h3",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16735531401527__8d3aaa9b-8583-45bc-baec-03d5b4e2d407-16672245863c8d67d6-0",
+        "template--16735531401527__8d3aaa9b-8583-45bc-baec-03d5b4e2d407-16672245863c8d67d6-1",
+        "template--16735531401527__8d3aaa9b-8583-45bc-baec-03d5b4e2d407-16672245863c8d67d6-2"
+      ],
+      "settings": {
+        "image_ratio": "landscape",
+        "image_position": "center center",
+        "text_alignment": "center",
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "mobile_text_alignment": "left",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "67128645-1503-4cdb-98ad-c11373357200": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16735531401527__67128645-1503-4cdb-98ad-c11373357200-1667361799c6105bcb-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you like our product, why not become an ambassador?<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "template--16735531401527__67128645-1503-4cdb-98ad-c11373357200-1667361799c6105bcb-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--16735531401527__67128645-1503-4cdb-98ad-c11373357200-1667361799c6105bcb-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Become an Ambassador",
+            "button_link": "",
+            "button_size": "small",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16735531401527__67128645-1503-4cdb-98ad-c11373357200-1667361799c6105bcb-1",
+        "template--16735531401527__67128645-1503-4cdb-98ad-c11373357200-1667361799c6105bcb-0",
+        "template--16735531401527__67128645-1503-4cdb-98ad-c11373357200-1667361799c6105bcb-2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "67152249-e6e3-4c6b-a6b5-13f78300ee15": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16735531401527__67152249-e6e3-4c6b-a6b5-13f78300ee15-16672167639149ca9b-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_443.png",
+            "title": "Money Back Guarante",
+            "title_size": "h4",
+            "text": "<p>100% natural ingredients. No side effectsClinically proven treatment for acne and rosaceaRehydrates and replenishes lost nutrients, nourishing dry skin.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "template--16735531401527__67152249-e6e3-4c6b-a6b5-13f78300ee15-16672167639149ca9b-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_444.png",
+            "title": "Minimising Our Carbon Foot Print",
+            "title_size": "h4",
+            "text": "<p>100% natural ingredients. No side effectsClinically proven treatment for acne and rosaceaRehydrates and replenishes lost nutrients, nourishing dry skin.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16735531401527__67152249-e6e3-4c6b-a6b5-13f78300ee15-16672167639149ca9b-0",
+        "template--16735531401527__67152249-e6e3-4c6b-a6b5-13f78300ee15-16672167639149ca9b-2"
+      ],
+      "settings": {
+        "image_ratio": "square",
+        "image_position": "center center",
+        "text_alignment": "center",
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "mobile_text_alignment": "left",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "9da7f7c9-eb42-4b5a-8e4c-74cb47fcaa82": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16735531401527__9da7f7c9-eb42-4b5a-8e4c-74cb47fcaa82-1667364328fd02053e-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--16735531401527__9da7f7c9-eb42-4b5a-8e4c-74cb47fcaa82-1667364328fd02053e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Read more about our mission of sustainable skincare here<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "template--16735531401527__9da7f7c9-eb42-4b5a-8e4c-74cb47fcaa82-1667364328fd02053e-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Read more",
+            "button_link": "",
+            "button_size": "small",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16735531401527__9da7f7c9-eb42-4b5a-8e4c-74cb47fcaa82-1667364328fd02053e-0",
+        "template--16735531401527__9da7f7c9-eb42-4b5a-8e4c-74cb47fcaa82-1667364328fd02053e-1",
+        "template--16735531401527__9da7f7c9-eb42-4b5a-8e4c-74cb47fcaa82-1667364328fd02053e-2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e49ad11d-bb78-4573-b50a-54e159553e3e": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16735531401527__e49ad11d-bb78-4573-b50a-54e159553e3e-1667364517828fb97f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "28 Days",
+            "heading_size": "h2",
+            "heading_tag": "h3"
+          }
+        },
+        "a54d7de7-0681-4166-95af-895792673993": {
+          "type": "heading",
+          "settings": {
+            "heading": "56 Days",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        },
+        "32045be2-38ca-423a-a269-6696967378f2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>84 Days<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "template--16735531401527__e49ad11d-bb78-4573-b50a-54e159553e3e-1667364517828fb97f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "template--16735531401527__e49ad11d-bb78-4573-b50a-54e159553e3e-1667364517828fb97f-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        },
+        "fc0060c1-b6f9-4d6f-ae91-385bf60768db": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16735531401527__e49ad11d-bb78-4573-b50a-54e159553e3e-1667364517828fb97f-0",
+        "a54d7de7-0681-4166-95af-895792673993",
+        "32045be2-38ca-423a-a269-6696967378f2",
+        "template--16735531401527__e49ad11d-bb78-4573-b50a-54e159553e3e-1667364517828fb97f-1",
+        "template--16735531401527__e49ad11d-bb78-4573-b50a-54e159553e3e-1667364517828fb97f-2",
+        "fc0060c1-b6f9-4d6f-ae91-385bf60768db"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Acne_1_1.png",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "use_custom_colors": false,
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -369,97 +1225,40 @@
         "padding_bottom": 36
       }
     },
-    "testimonials": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial-0": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
-            "image": "",
-            "author": "Author's name"
-          }
-        },
-        "testimonial-1": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
-            "image": "",
-            "author": "Author's name"
-          }
-        },
-        "testimonial-2": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
-            "image": "",
-            "author": "Author's name"
-          }
-        },
-        "testimonial-3": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
-            "image": "",
-            "author": "Author's name"
-          }
-        },
-        "testimonial-4": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
-            "image": "",
-            "author": "Author's name"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial-0",
-        "testimonial-1",
-        "testimonial-2",
-        "testimonial-3",
-        "testimonial-4"
-      ],
-      "settings": {
-        "autorotate": false,
-        "autorotate_speed": 5,
-        "show_divider": false,
-        "heading": "Testimonials",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "heading_tag": "h2",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "rich-text": {
       "type": "rich-text",
       "blocks": {
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Express yourself with",
-            "heading_size": "h1",
+            "heading": "Join us for a three-month period & clear, healthy skin will be YOURS!",
+            "heading_size": "h2",
             "heading_tag": "h2"
           }
         },
         "text": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>#instagram<\/p>",
             "text_size": "typeset2",
             "secondary_color": true
           }
+        },
+        "6f177f4c-0a95-475f-8f24-35c72e7c8a55": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "",
+            "button_size": "small",
+            "button_style_secondary": false
+          }
         }
       },
       "block_order": [
         "heading",
-        "text"
+        "text",
+        "6f177f4c-0a95-475f-8f24-35c72e7c8a55"
       ],
       "settings": {
         "text_alignment": "center",
@@ -475,111 +1274,35 @@
         "padding_bottom": 28
       }
     },
-    "gallery": {
-      "type": "gallery",
-      "blocks": {
-        "image-0": {
-          "type": "image",
-          "settings": {
-            "image": "",
-            "image_position": "center center",
-            "subheading": "",
-            "subheading_size": "h5",
-            "heading": "",
-            "heading_size": "h3",
-            "link": "",
-            "text_box_position": "middle-center"
-          }
-        },
-        "image-1": {
-          "type": "image",
-          "settings": {
-            "image": "",
-            "image_position": "center center",
-            "subheading": "",
-            "subheading_size": "h4",
-            "heading": "",
-            "heading_size": "h3",
-            "link": "",
-            "text_box_position": "middle-center"
-          }
-        },
-        "image-2": {
-          "type": "image",
-          "settings": {
-            "image": "",
-            "image_position": "center center",
-            "subheading": "",
-            "subheading_size": "h5",
-            "heading": "#summerMe",
-            "heading_size": "h3",
-            "link": "",
-            "text_box_position": "middle-center"
-          }
-        },
-        "image-3": {
-          "type": "image",
-          "settings": {
-            "image": "",
-            "image_position": "center center",
-            "subheading": "",
-            "subheading_size": "h5",
-            "heading": "",
-            "heading_size": "h3",
-            "link": "",
-            "text_box_position": "middle-center"
-          }
-        },
-        "image-4": {
-          "type": "image",
-          "settings": {
-            "image": "",
-            "image_position": "center center",
-            "subheading": "",
-            "subheading_size": "h5",
-            "heading": "",
-            "heading_size": "h3",
-            "link": "",
-            "text_box_position": "middle-center"
-          }
-        }
-      },
-      "block_order": [
-        "image-0",
-        "image-1",
-        "image-2",
-        "image-3",
-        "image-4"
-      ],
-      "settings": {
-        "per_row": 5,
-        "spacing_images": 4,
-        "image_height": 280,
-        "apply_overlay": true,
-        "full_width": false,
-        "show_divider": false,
-        "heading": "",
-        "heading_size": "h1",
-        "heading_alignment": "left",
-        "heading_tag": "h2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "mobile_image_height": 160,
-        "padding_top": 0,
-        "padding_bottom": 4
-      }
+    "get-reviews-reviews-box": {
+      "type": "get-reviews-reviews-box",
+      "settings": {}
     }
   },
   "order": [
     "empty-space",
     "main",
-    "scrolling-promotion",
-    "guarantees",
-    "collapsible-content",
+    "1667212716ddee2c5e",
+    "b5c45e64-dda1-4ef2-a39e-c889255c9c5c",
+    "3be18c52-0a34-465f-8b61-80c3e1adfc2c",
+    "d629086e-0d70-4b37-a211-d39e86466e82",
+    "bc5d9735-5a1e-4646-8ca3-6c6f651fca00",
+    "cf3c9b19-4259-4499-bded-ae4c9a246db2",
+    "eaf53d06-190c-4146-8e1c-9f2ec57ab1ae",
+    "d8f74681-c431-4e3c-a3f6-4abc899cb2be",
+    "79e501e3-2a3f-44c3-b368-8aca0d57e499",
+    "8a59d8ca-abbd-4c0b-9442-2eb632dc85f0",
+    "89c13837-e162-4ce4-92e2-decf9322100f",
+    "b59d3221-34f8-495c-88c7-9d7b1dddc84d",
+    "515296d3-8b06-4759-b64f-cf294d46082f",
+    "8d3aaa9b-8583-45bc-baec-03d5b4e2d407",
+    "67128645-1503-4cdb-98ad-c11373357200",
+    "67152249-e6e3-4c6b-a6b5-13f78300ee15",
+    "9da7f7c9-eb42-4b5a-8e4c-74cb47fcaa82",
+    "e49ad11d-bb78-4573-b50a-54e159553e3e",
     "product-recommendations",
     "recently-viewed-products",
-    "testimonials",
     "rich-text",
-    "gallery"
+    "get-reviews-reviews-box"
   ]
 }

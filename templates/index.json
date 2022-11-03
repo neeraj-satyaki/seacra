@@ -6,26 +6,26 @@
         "slide-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/dc4c3bb7-096d-4102-890a-56cb4f441cfd.jpg",
+            "image": "shopify:\/\/shop_images\/Compressed_1_4a3c4ea0-bec8-45a2-ae42-b8f559099d8d.jpg",
             "image_position": "center center",
-            "text_box_position": "bottom-left",
-            "subheading": "Add a tagline",
+            "text_box_position": "bottom-center",
+            "subheading": "",
             "subheading_size": "h5",
-            "heading": "Image slide",
+            "heading": "",
             "heading_size": "h0",
             "heading_tag": "h2",
             "text": "",
             "text_size": "typeset2",
-            "button_label": "Button label",
+            "button_label": "Wrong.  It’s like papering over the cracks. You buy retinol to improve blemishes, you get dry skin. Most  skincare does not change the way your skin behaves. Ours does.  We target your skin problems, without creating more. Simply, the skin you deserve.  Clinically proven results. 100% natural ingredients.",
             "button_link": "",
-            "button_size": "medium",
-            "button_style_secondary": false
+            "button_size": "large",
+            "button_style_secondary": true
           }
         },
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/94478276-b1d0-497f-8ba6-b01de832da57.jpg",
+            "image": "shopify:\/\/shop_images\/Compressed_2.jpg",
             "image_position": "center center",
             "text_box_position": "bottom-center",
             "subheading": "Add a tagline",
@@ -44,7 +44,7 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/0ad61998-8a94-4492-8a1a-eebb98fd92b2.jpg",
+            "image": "shopify:\/\/shop_images\/Compressed_3_a5a9b489-4b1d-4384-b11a-509d82753810.jpg",
             "image_position": "center center",
             "text_box_position": "bottom-right",
             "subheading": "Add a tagline",
@@ -68,20 +68,20 @@
       ],
       "settings": {
         "slideshow_type": "legacy",
-        "text_alignment": "left",
+        "text_alignment": "center",
         "image_ratio": "100vh",
         "autorotate": false,
-        "autorotate_speed": 5,
+        "autorotate_speed": 3,
         "full_width": true,
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "600px",
-        "show_text_below": false,
+        "show_text_below": true,
         "colors_text": "#ffffff",
         "colors_background": "#ffffff",
-        "colors_overlay": "#1a1b18",
-        "colors_overlay_opacity": 16,
+        "colors_overlay": "#ffffff",
+        "colors_overlay_opacity": 0,
         "colors_navigation_text": "#ffffff",
-        "colors_navigation_background": "#1a1b18",
+        "colors_navigation_background": "#ffffff",
         "padding_top": 0,
         "padding_bottom": 36
       }
@@ -100,7 +100,7 @@
         "87c212cf-bdeb-4348-a387-5395343eb7fe": {
           "type": "heading",
           "settings": {
-            "heading": "We use red algae.",
+            "heading": "We use red algae. The superfood for your skin.",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -108,8 +108,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Through extracting Astaxanthin, the bio-active compound in red algae and a powerful antioxidant. Using our innovative cold-press technology we can preserve all the nutrients, vitamins and minerals your skin needs to improve it’s health and appearance all by itself. With zero side-effects.<br\/>Our Recovery & Repair gel is a TRANSPORTER meaning it allows much better penetration of all ingredients through the skin’s dermis and increases healthy turnover of your cells. So instead of masking the problem, we treat it.<\/p>",
-            "text_size": "typeset2",
+            "text": "<p>Through extracting Astaxanthin, the bio-active compound in red algae and a powerful antioxidant. Using our innovative cold-press technology we can preserve all the nutrients, vitamins and minerals your skin needs to improve it’s health and appearance all by itself. With zero side-effects. Our Recovery & Repair gel is a TRANSPORTER meaning it allows much better penetration of all ingredients through the skin’s dermis and increases healthy turnover of your cells. So instead of masking the problem, we treat it.<\/p>",
+            "text_size": "typeset",
             "secondary_color": false
           }
         },
@@ -135,7 +135,7 @@
         "horizontal_content": false,
         "narrow": true,
         "show_divider": false,
-        "use_custom_colors": true,
+        "use_custom_colors": false,
         "colors_text": "#212326",
         "colors_background": "#ffffff",
         "gradient_background": "",
@@ -143,439 +143,492 @@
         "padding_bottom": 36
       }
     },
-    "reveal-banner": {
-      "type": "reveal-banner",
+    "304fc79e-33f4-4b2b-931c-28812cd0f5a4": {
+      "type": "gallery",
       "blocks": {
-        "subheading": {
-          "type": "subheading",
+        "template--16735531434295__304fc79e-33f4-4b2b-931c-28812cd0f5a4-1667380619452a5181-0": {
+          "type": "image",
           "settings": {
-            "subheading": "Add a tagline",
-            "subheading_size": "h5",
-            "secondary_color": false
+            "image": "shopify:\/\/shop_images\/Product_Shot_1_f4c76ef5-453f-4f7f-b461-b993f1a608ea.png",
+            "image_position": "center center",
+            "subheading": "Clinically Proven Topical Gel",
+            "subheading_size": "h3",
+            "heading": "Non-sticky, lightweight, super-hydrating",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "top-center"
           }
         },
-        "heading": {
+        "template--16735531434295__304fc79e-33f4-4b2b-931c-28812cd0f5a4-1667380619452a5181-1": {
+          "type": "image",
+          "settings": {
+            "image_position": "center center",
+            "subheading": "Subheading",
+            "subheading_size": "h5",
+            "heading": "Tell your story",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        }
+      },
+      "block_order": [
+        "template--16735531434295__304fc79e-33f4-4b2b-931c-28812cd0f5a4-1667380619452a5181-0",
+        "template--16735531434295__304fc79e-33f4-4b2b-931c-28812cd0f5a4-1667380619452a5181-1"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 60,
+        "image_height": 490,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 48
+      }
+    },
+    "e9398cc1-52e6-42aa-9282-c9588e930432": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16735531434295__e9398cc1-52e6-42aa-9282-c9588e930432-166738217908de5584-0": {
           "type": "heading",
           "settings": {
-            "heading": "Banner heading",
+            "heading": "Seacra Success Stories",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
         },
-        "text": {
-          "type": "text",
+        "8f412aec-426a-4d91-9396-e8c2d0b416a7": {
+          "type": "subheading",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post.<\/p>",
-            "text_size": "typeset2",
+            "subheading": "97% success rate in our clinical trials in 28 days",
+            "subheading_size": "h3",
             "secondary_color": false
           }
-        },
-        "buttons": {
-          "type": "buttons",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "video_button": "Play Video",
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-            "video_description": "Describe the video"
-          }
-        },
-        "slide": {
-          "type": "slide",
-          "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1",
-            "heading_tag": "h2",
-            "text": "<p>Add details on availability, style, or even provide a review.<\/p>",
-            "text_size": "typeset2",
-            "secondary_color": false,
-            "button_label": "Button label",
-            "button_link": "",
-            "button_size": "medium",
-            "button_style_secondary": false,
-            "colors_text": "#1a1b18",
-            "colors_background": "#f7eedd",
-            "gradient_background": ""
-          }
         }
       },
       "block_order": [
-        "subheading",
-        "heading",
-        "text",
-        "buttons",
-        "slide"
+        "template--16735531434295__e9398cc1-52e6-42aa-9282-c9588e930432-166738217908de5584-0",
+        "8f412aec-426a-4d91-9396-e8c2d0b416a7"
       ],
       "settings": {
-        "image_position": "center center",
-        "text_alignment": "left",
-        "image_ratio": "650px",
-        "full_width": true,
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
         "show_divider": false,
-        "mobile_text_alignment": "left",
-        "mobile_image_ratio": "400px",
-        "show_text_below": false,
-        "colors_text": "#ffffff",
-        "colors_overlay": "#000000",
-        "colors_overlay_opacity": 20,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "use_custom_colors": false,
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 44,
+        "padding_bottom": 0
       }
     },
-    "guarantees": {
-      "type": "guarantees",
+    "c4a23204-ead0-4d6e-8fd3-e1802c6c0659": {
+      "type": "gallery",
       "blocks": {
-        "guarantee-0": {
-          "type": "guarantee",
+        "template--16735531434295__c4a23204-ead0-4d6e-8fd3-e1802c6c0659-1667388502b81fdf94-0": {
+          "type": "image",
           "settings": {
-            "icon": "truck",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "title": "Free & Fast",
-            "title_size": "h4",
-            "text": "<p>Delivery Across the UK<\/p>"
+            "image": "shopify:\/\/shop_images\/Group_507.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
           }
         },
-        "guarantee-1": {
-          "type": "guarantee",
+        "template--16735531434295__c4a23204-ead0-4d6e-8fd3-e1802c6c0659-1667388502b81fdf94-1": {
+          "type": "image",
           "settings": {
-            "icon": "return",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "title": "Free Returns",
-            "title_size": "h4",
-            "text": "<p>Within 30 days<\/p>"
-          }
-        },
-        "guarantee-2": {
-          "type": "guarantee",
-          "settings": {
-            "icon": "check_mark",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "title": "97% Success",
-            "title_size": "h4",
-            "text": "<p>Rate in clinical trials<\/p>"
-          }
-        },
-        "guarantee-3": {
-          "type": "guarantee",
-          "settings": {
-            "icon": "silhouette",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "title": "Partnered",
-            "title_size": "h4",
-            "text": "<p>With Eden Reforestation Project<\/p>"
+            "image": "shopify:\/\/shop_images\/Group_509_4af6a1b1-5759-4d1a-94da-db25a6f303f3.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
           }
         }
       },
       "block_order": [
-        "guarantee-0",
-        "guarantee-1",
-        "guarantee-2",
-        "guarantee-3"
+        "template--16735531434295__c4a23204-ead0-4d6e-8fd3-e1802c6c0659-1667388502b81fdf94-0",
+        "template--16735531434295__c4a23204-ead0-4d6e-8fd3-e1802c6c0659-1667388502b81fdf94-1"
       ],
       "settings": {
-        "layout": "default",
-        "column_alignment": "center",
-        "horizontal_content": false,
+        "per_row": 4,
+        "spacing_images": 0,
+        "image_height": 280,
+        "apply_overlay": true,
         "full_width": false,
         "show_divider": false,
-        "heading": "Seacra Success Stories 97% success rate in our clinical trials in 28 days",
+        "heading": "Acne",
         "heading_size": "h1",
+        "heading_alignment": "center",
         "heading_tag": "h2",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "use_custom_colors": false,
-        "colors_icon": "#ffffff",
-        "colors_text": "#1a1b18",
-        "colors_background": "#ffffff",
-        "gradient_background": "",
+        "mobile_image_height": 160,
         "padding_top": 36,
         "padding_bottom": 36
       }
     },
-    "featured-collection": {
-      "type": "featured-collection",
+    "a2746ae9-8235-4bb7-badc-a312a7fc0938": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16815042134327__a2746ae9-8235-4bb7-badc-a312a7fc0938-1667460878a511fe15-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Let us, Help You",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16815042134327__a2746ae9-8235-4bb7-badc-a312a7fc0938-1667460878a511fe15-2"
+      ],
       "settings": {
-        "collection": "",
-        "products_to_show": 8,
-        "show_view_all": true,
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "a277f950-093c-4ddf-8ca0-5c296a9b3ac2": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16815042134327__a277f950-093c-4ddf-8ca0-5c296a9b3ac2-166746064626c43d6c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Do you have a specific skin concern?",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--16815042134327__a277f950-093c-4ddf-8ca0-5c296a9b3ac2-166746064626c43d6c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Find out how our innovative red algae gel can help treat your specific skin concerns<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16815042134327__a277f950-093c-4ddf-8ca0-5c296a9b3ac2-166746064626c43d6c-0",
+        "template--16815042134327__a277f950-093c-4ddf-8ca0-5c296a9b3ac2-166746064626c43d6c-1"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 60,
+        "padding_bottom": 40
+      }
+    },
+    "c823ea16-4dc8-40a4-b330-909ccbc840a5": {
+      "type": "gallery",
+      "blocks": {
+        "template--16815042134327__c823ea16-4dc8-40a4-b330-909ccbc840a5-166739380584571c21-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Acne_2.png",
+            "image_position": "center center",
+            "subheading": "Subheading",
+            "subheading_size": "h5",
+            "heading": "Tell your story",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "template--16815042134327__c823ea16-4dc8-40a4-b330-909ccbc840a5-166739380584571c21-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rosacea_2.png",
+            "image_position": "center center",
+            "subheading": "Subheading",
+            "subheading_size": "h5",
+            "heading": "Tell your story",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        }
+      },
+      "block_order": [
+        "template--16815042134327__c823ea16-4dc8-40a4-b330-909ccbc840a5-166739380584571c21-0",
+        "template--16815042134327__c823ea16-4dc8-40a4-b330-909ccbc840a5-166739380584571c21-1"
+      ],
+      "settings": {
+        "per_row": 2,
+        "spacing_images": 0,
+        "image_height": 290,
+        "apply_overlay": false,
+        "full_width": false,
         "show_divider": false,
         "heading": "",
-        "heading_size": "h2",
+        "heading_size": "h1",
         "heading_alignment": "left",
         "heading_tag": "h2",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "image_ratio": "portrait",
-        "image_position": "center center",
-        "enable_image_fill": true,
-        "show_secondary_image": true,
-        "show_vendor": true,
-        "show_rating": true,
-        "show_quick_buy": true,
-        "enable_quick_view": true,
-        "enable_color_swatches": true,
-        "enable_countdown": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "mobile_image_height": 160,
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
-    "video-hero": {
-      "type": "video-hero",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Video hero",
-            "heading_size": "h1",
-            "heading_tag": "h2"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post.<\/p>",
-            "text_size": "typeset2",
-            "secondary_color": false
-          }
-        },
-        "button": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_size": "medium",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text",
-        "button"
-      ],
-      "settings": {
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "text_box_position": "middle-center",
-        "text_alignment": "center",
-        "image_ratio": "650px",
-        "show_text_box": false,
-        "full_width": true,
-        "show_divider": false,
-        "mobile_text_alignment": "left",
-        "mobile_image_ratio": "400px",
-        "show_text_below": true,
-        "colors_text": "#ffffff",
-        "colors_overlay": "#000000",
-        "colors_overlay_opacity": 48,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "countdown-timer": {
-      "type": "countdown-timer",
-      "blocks": {
-        "subheading": {
-          "type": "subheading",
-          "settings": {
-            "subheading": "Add a tagline",
-            "subheading_size": "h5",
-            "secondary_color": true
-          }
-        },
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Countdown timer",
-            "heading_size": "h1",
-            "heading_tag": "h2"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_size": "typeset",
-            "secondary_color": false
-          }
-        },
-        "countdown": {
-          "type": "countdown",
-          "settings": {
-            "date": "01-01-2023",
-            "number_size": "small",
-            "message": "<p>New sales and discounts are added all the time.<\/p>",
-            "message_size": "typeset2"
-          }
-        },
-        "button": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_size": "medium",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "subheading",
-        "heading",
-        "text",
-        "countdown",
-        "button"
-      ],
-      "settings": {
-        "image_position": "center center",
-        "layout": "text_first",
-        "text_box_position": "middle",
-        "text_alignment": "left",
-        "image_ratio": "650px",
-        "enlarge_content": false,
-        "full_width": false,
-        "show_divider": false,
-        "mobile_layout": "image_first",
-        "mobile_text_alignment": "left",
-        "mobile_image_ratio": "adapt",
-        "use_custom_colors": true,
-        "colors_text": "#1a1b18",
-        "colors_background": "#f9f9f9",
-        "gradient_background": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "shop-the-look": {
+    "2075c245-b0f7-4230-99d3-bb722357ee14": {
       "type": "shop-the-look",
       "blocks": {
-        "product-0": {
+        "015f6375-5628-4121-a897-a3d3bb5d508d": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "recovery-repair-gel-refill",
             "color": "#000000",
             "horizontal": 30,
             "vertical": 40
           }
         },
-        "product-1": {
+        "b2a933a4-f44a-4fb1-b0eb-ecad7ce6e154": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "recovery-repair-gel-refill-1",
             "color": "#000000",
-            "horizontal": 70,
-            "vertical": 45
-          }
-        },
-        "product-2": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "color": "#000000",
-            "horizontal": 45,
-            "vertical": 65
-          }
-        }
-      },
-      "block_order": [
-        "product-0",
-        "product-1",
-        "product-2"
-      ],
-      "settings": {
-        "layout": "image_first",
-        "text_box_position": "middle",
-        "text_alignment": "left",
-        "mobile_text_alignment": "left",
-        "full_width": false,
-        "show_divider": false,
-        "heading": "Shop the Look",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "heading_tag": "h2",
-        "image_ratio": "portrait",
-        "image_position": "center center",
-        "enable_image_fill": true,
-        "show_secondary_image": true,
-        "show_vendor": true,
-        "show_rating": true,
-        "show_quick_buy": true,
-        "enable_quick_view": true,
-        "enable_color_swatches": true,
-        "enable_countdown": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "lookbook": {
-      "type": "lookbook",
-      "blocks": {
-        "look-0": {
-          "type": "look",
-          "settings": {
-            "product": "",
-            "enable_quick_view": true,
-            "color": "#ffffff",
-            "horizontal": 25,
-            "vertical": 35
-          }
-        },
-        "look-1": {
-          "type": "look",
-          "settings": {
-            "product": "",
-            "enable_quick_view": true,
-            "color": "#ffffff",
-            "horizontal": 45,
-            "vertical": 65
-          }
-        },
-        "look-2": {
-          "type": "look",
-          "settings": {
-            "product": "",
-            "enable_quick_view": true,
-            "color": "#ffffff",
-            "horizontal": 70,
+            "horizontal": 30,
             "vertical": 40
           }
         }
       },
       "block_order": [
-        "look-0",
-        "look-1",
-        "look-2"
+        "015f6375-5628-4121-a897-a3d3bb5d508d",
+        "b2a933a4-f44a-4fb1-b0eb-ecad7ce6e154"
       ],
       "settings": {
-        "full_width": true,
+        "image": "shopify:\/\/shop_images\/Group_511.jpg",
+        "layout": "image_first",
+        "text_box_position": "top",
+        "text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "full_width": false,
         "show_divider": false,
-        "heading": "Lookbook",
+        "heading": "",
         "heading_size": "h1",
         "heading_alignment": "center",
         "heading_tag": "h2",
-        "colors_overlay": "#1a1b18",
-        "colors_overlay_opacity": 8,
-        "padding_top": 36,
+        "image_ratio": "adapt",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 100,
+        "padding_bottom": 0
+      }
+    },
+    "54103e22-4e9c-4087-9aec-ff08b96b1eaa": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16815042134327__54103e22-4e9c-4087-9aec-ff08b96b1eaa-1667397031d9f351d5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "No more bad skin days. Ever.",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--16815042134327__54103e22-4e9c-4087-9aec-ff08b96b1eaa-1667397031d9f351d5-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Why suffer side-effects when you don’t have to?<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16815042134327__54103e22-4e9c-4087-9aec-ff08b96b1eaa-1667397031d9f351d5-0",
+        "template--16815042134327__54103e22-4e9c-4087-9aec-ff08b96b1eaa-1667397031d9f351d5-1"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "2764a533-f9fa-4357-a3f7-57b926a4c540": {
+      "type": "gallery",
+      "blocks": {
+        "template--16815042134327__2764a533-f9fa-4357-a3f7-57b926a4c540-166739380584571c21-1": {
+          "type": "image",
+          "settings": {
+            "image_position": "center center",
+            "subheading": "Subheading",
+            "subheading_size": "h5",
+            "heading": "Tell your story",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "template--16815042134327__2764a533-f9fa-4357-a3f7-57b926a4c540-166739380584571c21-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mask_group_2.png",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        }
+      },
+      "block_order": [
+        "template--16815042134327__2764a533-f9fa-4357-a3f7-57b926a4c540-166739380584571c21-1",
+        "template--16815042134327__2764a533-f9fa-4357-a3f7-57b926a4c540-166739380584571c21-2"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 2,
+        "image_height": 280,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 0,
         "padding_bottom": 36
+      }
+    },
+    "ef0c84e4-e207-4d50-9811-03d017cfcc2b": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16815042134327__ef0c84e4-e207-4d50-9811-03d017cfcc2b-16674102513bb2e7dc-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Say bye to bad skin",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16815042134327__ef0c84e4-e207-4d50-9811-03d017cfcc2b-16674102513bb2e7dc-2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "rich-text-1": {
+      "type": "rich-text",
+      "blocks": {
+        "2e146202-8a44-4c9a-a061-6d3e713bafa6": {
+          "type": "heading",
+          "settings": {
+            "heading": "Want glowing skin?",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "2228cb7a-08d7-4379-8ae7-47d1600bbe0f": {
+          "type": "heading",
+          "settings": {
+            "heading": "Get a microdermabrasion...or use our gel.",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "95a4f0f8-0b6f-41d4-9ed1-1335121f2e07": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Celebrities have access to the best dermatologists in the world and have the luxury of getting a microdermabrasion every week to give them that five-star glow. Imagine being able to have a microdermabrasion every day. No purging, No downtime. Simply, glowing skin. The Recovery & Repair Gel, the ultimate in non-invasive, life-changing skincare<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "2e146202-8a44-4c9a-a061-6d3e713bafa6",
+        "2228cb7a-08d7-4379-8ae7-47d1600bbe0f",
+        "95a4f0f8-0b6f-41d4-9ed1-1335121f2e07"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 28,
+        "padding_bottom": 28
       }
     },
     "image-with-text-0": {
       "type": "image-with-text",
       "blocks": {
-        "subheading": {
-          "type": "subheading",
-          "settings": {
-            "subheading": "Add a tagline",
-            "subheading_size": "h5",
-            "secondary_color": true
-          }
-        },
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "The Benefits",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -583,97 +636,24 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>1. Reducing the appearance of fine lines and wrinkles.<br\/><\/p><p>2. Reducing the appearance of age spots and hyperpigmentation.<br\/><\/p><p>3. Removing blackheads and swollen pores.<br\/><\/p><p>4. Tackling acne and any associated scarring.<br\/><\/p><p>5. Reducing the appearance of stretch marks.<\/p><p>6.Getting rid of uneven skin texture and tone.<\/p>",
             "text_size": "typeset",
             "secondary_color": false
-          }
-        },
-        "button": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_size": "medium",
-            "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "subheading",
         "heading",
-        "text",
-        "button"
+        "text"
       ],
       "settings": {
-        "image_position": "center center",
-        "layout": "text_first",
-        "text_box_position": "middle",
-        "text_alignment": "left",
-        "image_ratio": "500px",
-        "enlarge_content": false,
-        "full_width": false,
-        "show_divider": false,
-        "mobile_layout": "image_first",
-        "mobile_text_alignment": "left",
-        "mobile_image_ratio": "250px",
-        "use_custom_colors": false,
-        "colors_text": "#212326",
-        "colors_background": "#ffffff",
-        "gradient_background": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image-with-text-1": {
-      "type": "image-with-text",
-      "blocks": {
-        "subheading": {
-          "type": "subheading",
-          "settings": {
-            "subheading": "Add a tagline",
-            "subheading_size": "h5",
-            "secondary_color": true
-          }
-        },
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1",
-            "heading_tag": "h2"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_size": "typeset",
-            "secondary_color": false
-          }
-        },
-        "button": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_size": "medium",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "subheading",
-        "heading",
-        "text",
-        "button"
-      ],
-      "settings": {
+        "image": "shopify:\/\/shop_images\/Seacra_1_7b11bae9-b388-44b9-bd82-aef5f749409c.png",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
         "text_alignment": "left",
         "image_ratio": "500px",
-        "enlarge_content": false,
+        "enlarge_content": true,
         "full_width": false,
         "show_divider": false,
         "mobile_layout": "image_first",
@@ -683,359 +663,17 @@
         "colors_text": "#212326",
         "colors_background": "#ffffff",
         "gradient_background": "",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 24,
+        "padding_bottom": 0
       }
     },
-    "tab-collage": {
-      "type": "tab-collage",
+    "eb38ed40-415c-41f5-af99-bcc60368b87a": {
+      "type": "rich-text",
       "blocks": {
-        "image-0": {
-          "type": "image",
-          "settings": {
-            "image_position": "center center",
-            "heading": "1. Image heading",
-            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": "",
-            "button_size": "small",
-            "button_style_secondary": true
-          }
-        },
-        "image-1": {
-          "type": "image",
-          "settings": {
-            "image_position": "center center",
-            "heading": "2. Image heading",
-            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": "",
-            "button_size": "small",
-            "button_style_secondary": true
-          }
-        },
-        "image-2": {
-          "type": "image",
-          "settings": {
-            "image_position": "center center",
-            "heading": "3. Image heading",
-            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": "",
-            "button_size": "small",
-            "button_style_secondary": true
-          }
-        },
-        "image-3": {
-          "type": "image",
-          "settings": {
-            "image_position": "center center",
-            "heading": "3. Image heading",
-            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": "",
-            "button_size": "small",
-            "button_style_secondary": true
-          }
-        }
-      },
-      "block_order": [
-        "image-0",
-        "image-1",
-        "image-2",
-        "image-3"
-      ],
-      "settings": {
-        "layout": "text_first",
-        "text_box_position": "top",
-        "text_alignment": "left",
-        "image_ratio": "500px",
-        "make_collapsible_rows": true,
-        "full_width": true,
-        "show_divider": false,
-        "heading": "Tab collage",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "heading_tag": "h2",
-        "mobile_layout": "text_first",
-        "mobile_text_alignment": "left",
-        "mobile_image_ratio": "200px",
-        "colors_text": "#1a1b18",
-        "colors_border": "#a1a1a1",
-        "colors_background": "#f7eedd",
-        "gradient_background": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image-comparison": {
-      "type": "image-comparison",
-      "blocks": {
-        "look-0": {
-          "type": "look",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/VOL10_T0.png",
-            "title": "",
-            "title_size": "small",
-            "title_position": "start"
-          }
-        },
-        "look-1": {
-          "type": "look",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/VOL10_T10.png",
-            "title": "",
-            "title_size": "small",
-            "title_position": "start"
-          }
-        }
-      },
-      "block_order": [
-        "look-0",
-        "look-1"
-      ],
-      "settings": {
-        "layout": "horizontal",
-        "image_ratio": "750px",
-        "mobile_image_ratio": "adapt",
-        "full_width": false,
-        "show_divider": false,
-        "heading": "Before & After",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "heading_tag": "h2",
-        "colors_line": "#ffffff",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "featured-product": {
-      "type": "featured-product",
-      "blocks": {
-        "vendor": {
-          "type": "text",
-          "settings": {
-            "icon": "none",
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "title": {
-          "type": "title",
-          "settings": {
-            "title_size": "h2",
-            "title_tag": "h2",
-            "show_price": false,
-            "price_size": "medium"
-          }
-        },
-        "rating": {
-          "type": "rating",
-          "settings": {}
-        },
-        "price": {
-          "type": "price",
-          "settings": {
-            "price_size": "medium",
-            "show_badges": true
-          }
-        },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "show_variant_labels": true,
-            "picker_type": "button",
-            "enable_color_swatches": true,
-            "swatch_type": "round",
-            "size_chart": ""
-          }
-        },
-        "countdown": {
-          "type": "countdown",
-          "settings": {
-            "heading": "Hurry up ! Sale end in:",
-            "number_size": "compact",
-            "colors_heading": "#da3f3f",
-            "colors_text": "#da3f3f",
-            "colors_background": "#ffeeee"
-          }
-        },
-        "description": {
-          "type": "description",
-          "settings": {}
-        },
-        "collapsible_tab-0": {
-          "type": "collapsible_tab",
-          "settings": {
-            "icon": "none",
-            "heading": "1. Collapsible row",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
-            "page": ""
-          }
-        },
-        "collapsible_tab-1": {
-          "type": "collapsible_tab",
-          "settings": {
-            "icon": "none",
-            "heading": "2. Collapsible row",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
-            "page": ""
-          }
-        },
-        "read_more": {
-          "type": "read_more",
-          "settings": {
-            "show_icon": true
-          }
-        },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_quantity_selector": false,
-            "show_dynamic_checkout": true
-          }
-        },
-        "inventory_status": {
-          "type": "inventory_status",
-          "settings": {
-            "inventory_threshold": 20,
-            "show_inventory_transfer": true,
-            "color_scheme": "accent-3"
-          }
-        },
-        "share": {
-          "type": "share",
-          "disabled": true,
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "vendor",
-        "title",
-        "rating",
-        "price",
-        "variant_picker",
-        "countdown",
-        "description",
-        "collapsible_tab-0",
-        "collapsible_tab-1",
-        "read_more",
-        "buy_buttons",
-        "inventory_status",
-        "share"
-      ],
-      "settings": {
-        "product": "",
-        "layout": "media_first",
-        "full_width": false,
-        "show_divider": false,
-        "hide_variants": false,
-        "enable_image_zoom": true,
-        "enable_video_looping": false,
-        "image_ratio": "adapt_first",
-        "image_position": "center center",
-        "enable_layered_images": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "bundle-products": {
-      "type": "bundle-products",
-      "blocks": {
-        "product-0": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "image_ratio": "square",
-            "show_vendor": true,
-            "show_quick_buy": true,
-            "enable_quick_view": true,
-            "color": "#000000",
-            "horizontal": 30,
-            "vertical": 40
-          }
-        },
-        "product-1": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "image_ratio": "square",
-            "show_vendor": true,
-            "show_quick_buy": true,
-            "enable_quick_view": true,
-            "color": "#000000",
-            "horizontal": 70,
-            "vertical": 45
-          }
-        },
-        "product-2": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "image_ratio": "square",
-            "show_vendor": true,
-            "show_quick_buy": true,
-            "enable_quick_view": true,
-            "color": "#000000",
-            "horizontal": 45,
-            "vertical": 65
-          }
-        }
-      },
-      "block_order": [
-        "product-0",
-        "product-1",
-        "product-2"
-      ],
-      "settings": {
-        "layout": "text_first",
-        "text_box_position": "top",
-        "text_alignment": "left",
-        "mobile_text_alignment": "left",
-        "full_width": false,
-        "show_divider": false,
-        "subheading": "Add a tagline",
-        "subheading_size": "h5",
-        "heading": "Bundle products",
-        "heading_size": "h1",
-        "heading_tag": "h2",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image-with-text-overlay": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "subheading": {
-          "type": "subheading",
-          "settings": {
-            "subheading": "Add a tagline",
-            "subheading_size": "h5",
-            "secondary_color": true
-          }
-        },
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text overlay",
-            "heading_size": "h1",
-            "heading_tag": "h2"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_size": "typeset",
-            "secondary_color": false
-          }
-        },
-        "button": {
+        "template--16815042134327__eb38ed40-415c-41f5-af99-bcc60368b87a-1667465839f4a94e42-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Get your glow",
             "button_link": "",
             "button_size": "medium",
             "button_style_secondary": false
@@ -1043,24 +681,94 @@
         }
       },
       "block_order": [
-        "subheading",
-        "heading",
-        "text",
-        "button"
+        "template--16815042134327__eb38ed40-415c-41f5-af99-bcc60368b87a-1667465839f4a94e42-2"
       ],
       "settings": {
-        "image_position": "center center",
-        "text_box_position": "flex-end",
-        "text_alignment": "left",
-        "image_ratio": "550px",
-        "full_width": true,
-        "show_divider": false,
-        "mobile_text_box_position": "image_first",
+        "text_alignment": "center",
         "mobile_text_alignment": "left",
-        "mobile_image_ratio": "200px",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
         "colors_text": "#212326",
-        "colors_overlay": "#fbf7ed",
-        "colors_overlay_opacity": 80,
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "48d56e81-5147-49f7-91d8-c0946550eb6b": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16815042134327__48d56e81-5147-49f7-91d8-c0946550eb6b-1667460878a511fe15-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Find out how Jilian broke the cycle of bad skin for good.",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--16815042134327__48d56e81-5147-49f7-91d8-c0946550eb6b-1667460878a511fe15-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16815042134327__48d56e81-5147-49f7-91d8-c0946550eb6b-1667460878a511fe15-0",
+        "template--16815042134327__48d56e81-5147-49f7-91d8-c0946550eb6b-1667460878a511fe15-1"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "b5299f24-c980-43d4-9fc6-7d973b027eaf": {
+      "type": "gallery",
+      "blocks": {
+        "template--16815042134327__b5299f24-c980-43d4-9fc6-7d973b027eaf-166745775348550faa-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_469.png",
+            "image_position": "center center",
+            "subheading": "Subheading",
+            "subheading_size": "h5",
+            "heading": "Tell your story",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        }
+      },
+      "block_order": [
+        "template--16815042134327__b5299f24-c980-43d4-9fc6-7d973b027eaf-166745775348550faa-2"
+      ],
+      "settings": {
+        "per_row": 1,
+        "spacing_images": 2,
+        "image_height": 470,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -1128,78 +836,17 @@
         "padding_bottom": 36
       }
     },
-    "rich-text-1": {
-      "type": "rich-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Express yourself with",
-            "heading_size": "h1",
-            "heading_tag": "h2"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>#instagram<\/p>",
-            "text_size": "typeset2",
-            "secondary_color": true
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text"
-      ],
-      "settings": {
-        "text_alignment": "center",
-        "mobile_text_alignment": "center",
-        "horizontal_content": false,
-        "narrow": false,
-        "show_divider": false,
-        "use_custom_colors": false,
-        "colors_text": "#212326",
-        "colors_background": "#ffffff",
-        "gradient_background": "",
-        "padding_top": 36,
-        "padding_bottom": 28
-      }
-    },
     "gallery": {
       "type": "gallery",
       "blocks": {
         "image-0": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Frame_22.png",
             "image_position": "center center",
             "subheading": "",
             "subheading_size": "h5",
             "heading": "",
-            "heading_size": "h3",
-            "link": "",
-            "text_box_position": "middle-center"
-          }
-        },
-        "image-1": {
-          "type": "image",
-          "settings": {
-            "image_position": "center center",
-            "subheading": "",
-            "subheading_size": "h4",
-            "heading": "",
-            "heading_size": "h3",
-            "link": "",
-            "text_box_position": "middle-center"
-          }
-        },
-        "image-2": {
-          "type": "image",
-          "settings": {
-            "image_position": "center center",
-            "subheading": "",
-            "subheading_size": "h5",
-            "heading": "#summerMe",
             "heading_size": "h3",
             "link": "",
             "text_box_position": "middle-center"
@@ -1232,8 +879,6 @@
       },
       "block_order": [
         "image-0",
-        "image-1",
-        "image-2",
         "image-3",
         "image-4"
       ],
@@ -1255,150 +900,269 @@
         "padding_bottom": 0
       }
     },
-    "scrolling-promotion": {
-      "type": "scrolling-promotion",
+    "619f9517-d824-4fd5-91a3-9274afa7d8f0": {
+      "type": "faq",
       "blocks": {
-        "image-0": {
-          "type": "image",
+        "template--16735531434295__619f9517-d824-4fd5-91a3-9274afa7d8f0-1667380619f8d2f166-0": {
+          "type": "question",
           "settings": {
-            "height": 160,
-            "link": ""
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
           }
         },
-        "image-1": {
-          "type": "image",
+        "template--16735531434295__619f9517-d824-4fd5-91a3-9274afa7d8f0-1667380619f8d2f166-1": {
+          "type": "question",
           "settings": {
-            "height": 160,
-            "link": ""
-          }
-        },
-        "image-2": {
-          "type": "image",
-          "settings": {
-            "height": 160,
-            "link": ""
-          }
-        },
-        "image-3": {
-          "type": "image",
-          "settings": {
-            "height": 160,
-            "link": ""
-          }
-        },
-        "image-4": {
-          "type": "image",
-          "settings": {
-            "height": 160,
-            "link": ""
-          }
-        },
-        "image-5": {
-          "type": "image",
-          "settings": {
-            "height": 160,
-            "link": ""
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
           }
         }
       },
       "block_order": [
-        "image-0",
-        "image-1",
-        "image-2",
-        "image-3",
-        "image-4",
-        "image-5"
+        "template--16735531434295__619f9517-d824-4fd5-91a3-9274afa7d8f0-1667380619f8d2f166-0",
+        "template--16735531434295__619f9517-d824-4fd5-91a3-9274afa7d8f0-1667380619f8d2f166-1"
       ],
       "settings": {
-        "direction": "left",
-        "speed": 1.2,
+        "narrow": true,
+        "secondary_background": false,
         "show_divider": false,
+        "heading": "FAQs",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "873ef438-0b36-457a-8bde-889aaf81aa37": {
+      "type": "gallery",
+      "blocks": {
+        "template--16735531434295__873ef438-0b36-457a-8bde-889aaf81aa37-1667380619452a5181-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_505.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "template--16735531434295__873ef438-0b36-457a-8bde-889aaf81aa37-1667380619452a5181-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mask_group.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "template--16735531434295__873ef438-0b36-457a-8bde-889aaf81aa37-1667380619452a5181-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "template--16735531434295__873ef438-0b36-457a-8bde-889aaf81aa37-1667380619452a5181-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2022-11-02_at_12.18_1.png",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        }
+      },
+      "block_order": [
+        "template--16735531434295__873ef438-0b36-457a-8bde-889aaf81aa37-1667380619452a5181-0",
+        "template--16735531434295__873ef438-0b36-457a-8bde-889aaf81aa37-1667380619452a5181-1",
+        "template--16735531434295__873ef438-0b36-457a-8bde-889aaf81aa37-1667380619452a5181-2",
+        "template--16735531434295__873ef438-0b36-457a-8bde-889aaf81aa37-1667380619452a5181-3"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 0,
+        "image_height": 280,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "guarantees": {
+      "type": "guarantees",
+      "blocks": {
+        "guarantee-0": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "truck",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Free & Fast",
+            "title_size": "h4",
+            "text": "<p>Delivery Across the UK<\/p>"
+          }
+        },
+        "guarantee-1": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "return",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Free Returns",
+            "title_size": "h4",
+            "text": "<p>Within 30 days<\/p>"
+          }
+        },
+        "guarantee-2": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "check_mark",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "97% Success",
+            "title_size": "h4",
+            "text": "<p>Rate in clinical trials<\/p>"
+          }
+        },
+        "guarantee-3": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "silhouette",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Partnered",
+            "title_size": "h4",
+            "text": "<p>With Eden Reforestation Project<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "guarantee-0",
+        "guarantee-1",
+        "guarantee-2",
+        "guarantee-3"
+      ],
+      "settings": {
+        "layout": "default",
+        "column_alignment": "center",
+        "horizontal_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
         "use_custom_colors": false,
         "colors_icon": "#ffffff",
         "colors_text": "#1a1b18",
         "colors_background": "#ffffff",
         "gradient_background": "",
-        "padding_top": 36,
+        "padding_top": 0,
         "padding_bottom": 36
       }
     },
-    "map": {
-      "type": "map",
+    "1efd7499-2146-4a8e-953c-6a4470a6285a": {
+      "type": "shop-the-look",
       "blocks": {
-        "heading": {
-          "type": "heading",
+        "template--16815042134327__1efd7499-2146-4a8e-953c-6a4470a6285a-166746766978f1a2dd-2": {
+          "type": "product",
           "settings": {
-            "heading": "Our Store",
-            "heading_size": "h1",
-            "heading_tag": "h2"
+            "product": "",
+            "color": "#000000",
+            "horizontal": 45,
+            "vertical": 65
           }
         },
-        "text": {
-          "type": "text",
+        "a2653964-5e46-4cc2-849f-88b428c58712": {
+          "type": "product",
           "settings": {
-            "text": "<p>620 King Street West<br\/>Toronto, ON M5V 1M7, Canada<\/p><p>Mon - Fri, 8:30am - 10:30pm<br\/>Saturday, 8:30am - 10:30pm<br\/>Sunday, 8:30am - 10:30pm<\/p>",
-            "text_size": "typeset",
-            "secondary_color": false
-          }
-        },
-        "button": {
-          "type": "button",
-          "settings": {
-            "button_label": "Get directions",
-            "button_link": "https:\/\/www.google.com\/maps\/place\/Peter+Bangs+Vej+15,+7600+Struer,+Denmark\/@56.4843068,8.6032672,17z\/data=!3m1!4b1!4m5!3m4!1s0x464a2dcc4bfc3e09:0x3222e80e09b18b8a!8m2!3d56.484304!4d8.605328",
-            "button_size": "small",
-            "button_style_secondary": false
+            "product": "",
+            "color": "#000000",
+            "horizontal": 30,
+            "vertical": 40
           }
         }
       },
       "block_order": [
-        "heading",
-        "text",
-        "button"
+        "template--16815042134327__1efd7499-2146-4a8e-953c-6a4470a6285a-166746766978f1a2dd-2",
+        "a2653964-5e46-4cc2-849f-88b428c58712"
       ],
       "settings": {
-        "map_address": "620 King St W, Toronto, ON M5V 1M7, Canada",
-        "map_api_key": "",
-        "map_zoom": 14,
-        "map_style": "standard",
-        "image_position": "center center",
-        "text_box_position": "middle-left",
+        "layout": "image_first",
+        "text_box_position": "top",
         "text_alignment": "left",
-        "image_ratio": "550px",
-        "full_width": true,
-        "show_divider": false,
-        "mobile_text_box_position": "image_first",
         "mobile_text_alignment": "left",
-        "mobile_image_ratio": "400px",
-        "colors_text": "#1a1b18",
-        "colors_overlay": "#ffffff",
-        "colors_overlay_opacity": 100,
-        "padding_top": 0,
-        "padding_bottom": 0
+        "full_width": false,
+        "show_divider": false,
+        "heading": "Shop the Look",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "image_ratio": "adapt",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
   "order": [
     "slideshow",
     "rich-text-0",
-    "reveal-banner",
-    "guarantees",
-    "featured-collection",
-    "video-hero",
-    "countdown-timer",
-    "shop-the-look",
-    "lookbook",
-    "image-with-text-0",
-    "image-with-text-1",
-    "tab-collage",
-    "image-comparison",
-    "featured-product",
-    "bundle-products",
-    "image-with-text-overlay",
-    "testimonials",
+    "304fc79e-33f4-4b2b-931c-28812cd0f5a4",
+    "e9398cc1-52e6-42aa-9282-c9588e930432",
+    "c4a23204-ead0-4d6e-8fd3-e1802c6c0659",
+    "a2746ae9-8235-4bb7-badc-a312a7fc0938",
+    "a277f950-093c-4ddf-8ca0-5c296a9b3ac2",
+    "c823ea16-4dc8-40a4-b330-909ccbc840a5",
+    "2075c245-b0f7-4230-99d3-bb722357ee14",
+    "54103e22-4e9c-4087-9aec-ff08b96b1eaa",
+    "2764a533-f9fa-4357-a3f7-57b926a4c540",
+    "ef0c84e4-e207-4d50-9811-03d017cfcc2b",
     "rich-text-1",
+    "image-with-text-0",
+    "eb38ed40-415c-41f5-af99-bcc60368b87a",
+    "48d56e81-5147-49f7-91d8-c0946550eb6b",
+    "b5299f24-c980-43d4-9fc6-7d973b027eaf",
+    "testimonials",
     "gallery",
-    "scrolling-promotion",
-    "map"
+    "619f9517-d824-4fd5-91a3-9274afa7d8f0",
+    "873ef438-0b36-457a-8bde-889aaf81aa37",
+    "guarantees",
+    "1efd7499-2146-4a8e-953c-6a4470a6285a"
   ]
 }

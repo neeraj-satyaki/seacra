@@ -7,9 +7,345 @@
         "padding_top": 60,
         "padding_bottom": 72
       }
+    },
+    "77ca480f-3a0b-4f58-bec4-430034fa3011": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16824268980535__77ca480f-3a0b-4f58-bec4-430034fa3011-1667459906d28c91aa-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Acne treatments clear your skin. Fact?",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        },
+        "template--16824268980535__77ca480f-3a0b-4f58-bec4-430034fa3011-1667459906d28c91aa-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>               Wrong.<br\/> You thought you had found an acne solution but ended up getting dry, sensitive skin. You stop using the treatment, your pores become clogged and your acne returns.<br\/>Usual acne medications don’t change the way your skin behaves. <br\/>Ours does.No dry skin, no sensitivity, no redness. Simply, the skin you deserve.<br\/>Clinically proven results. 100% natural ingredients.<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "template--16824268980535__77ca480f-3a0b-4f58-bec4-430034fa3011-1667459906d28c91aa-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Better Skin Awaits",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        },
+        "0c560af7-3baa-4e8e-8bd2-0a7a00869fb7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>On TrustPilot<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16824268980535__77ca480f-3a0b-4f58-bec4-430034fa3011-1667459906d28c91aa-0",
+        "template--16824268980535__77ca480f-3a0b-4f58-bec4-430034fa3011-1667459906d28c91aa-1",
+        "template--16824268980535__77ca480f-3a0b-4f58-bec4-430034fa3011-1667459906d28c91aa-2",
+        "0c560af7-3baa-4e8e-8bd2-0a7a00869fb7"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Group_298_1.jpg",
+        "image_position": "center center",
+        "text_box_position": "middle-center",
+        "text_alignment": "center",
+        "image_ratio": "650px",
+        "show_text_box": false,
+        "full_width": true,
+        "show_divider": false,
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "auto",
+        "stack_images_on_mobile": true,
+        "show_text_below": true,
+        "colors_text": "#FFFFFF",
+        "colors_overlay": "#000000",
+        "colors_overlay_opacity": 28,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "5b1665bb-93fe-4c2e-b567-2c74370235c8": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16824268980535__5b1665bb-93fe-4c2e-b567-2c74370235c8-16674605202d4de22f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "But how? We use red algae.        The superfood for your skin.",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--16824268980535__5b1665bb-93fe-4c2e-b567-2c74370235c8-16674605202d4de22f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Through extracting Astaxanthin, the bio-active compound in red algae and a powerful antioxidant. Using our innovative cold-press technology we can preserve all the nutrients, vitamins and minerals your skin needs to improve it’s health and appearance all by itself. With zero side-effects.<br\/>Our Recovery & Repair gel is a TRANSPORTER meaning it allows much better penetration of all ingredients through the skin’s dermis and increases healthy turnover of your cells. So instead of masking the problem, we treat it.<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "template--16824268980535__5b1665bb-93fe-4c2e-b567-2c74370235c8-16674605202d4de22f-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Real Skin is Beautiful",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16824268980535__5b1665bb-93fe-4c2e-b567-2c74370235c8-16674605202d4de22f-0",
+        "template--16824268980535__5b1665bb-93fe-4c2e-b567-2c74370235c8-16674605202d4de22f-1",
+        "template--16824268980535__5b1665bb-93fe-4c2e-b567-2c74370235c8-16674605202d4de22f-2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "32c641dd-3992-4063-807c-5a6487caeadd": {
+      "type": "gallery",
+      "blocks": {
+        "template--16824268980535__32c641dd-3992-4063-807c-5a6487caeadd-16674609620e4170ac-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Product_Shot_1_9133e80d-6c82-4e10-8e7d-c1c857402cf4.png",
+            "image_position": "center center",
+            "subheading": "Clinically Proven Topical Gel",
+            "subheading_size": "h3",
+            "heading": "Non-sticky, lightweight, super-hydrating",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "top-center"
+          }
+        },
+        "template--16824268980535__32c641dd-3992-4063-807c-5a6487caeadd-16674609620e4170ac-2": {
+          "type": "image",
+          "settings": {
+            "image_position": "center center",
+            "subheading": "Clinically Proven Collagen Drink",
+            "subheading_size": "h3",
+            "heading": "Delicious, simple, effective",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "top-center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16824268980535__32c641dd-3992-4063-807c-5a6487caeadd-16674609620e4170ac-0",
+        "template--16824268980535__32c641dd-3992-4063-807c-5a6487caeadd-16674609620e4170ac-2"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 2,
+        "image_height": 280,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "881758ef-3d3b-48b9-b1fa-e212e996b869": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16824268980535__881758ef-3d3b-48b9-b1fa-e212e996b869-166746168302d36f72-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Glow From the Outside",
+            "button_link": "",
+            "button_size": "small",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16824268980535__881758ef-3d3b-48b9-b1fa-e212e996b869-166746168302d36f72-2"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "7cdc418e-33a1-460e-8f65-cbe624cc3cbe": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16824268980535__7cdc418e-33a1-460e-8f65-cbe624cc3cbe-166746168302d36f72-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Glow from the Inside",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16824268980535__7cdc418e-33a1-460e-8f65-cbe624cc3cbe-166746168302d36f72-2"
+      ],
+      "settings": {
+        "text_alignment": "right",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "64c527ad-5a15-44da-951f-72c6412e3801": {
+      "type": "rich-text",
+      "blocks": {
+        "7c1aa470-797c-452f-84e1-1ee4edfb3252": {
+          "type": "heading",
+          "settings": {
+            "heading": "ACNE Success Stories",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        },
+        "c81af890-7c8b-4762-acd2-9b3ddb5cb095": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "97% success rate in our clinical trials in 28 days",
+            "subheading_size": "h5",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "7c1aa470-797c-452f-84e1-1ee4edfb3252",
+        "c81af890-7c8b-4762-acd2-9b3ddb5cb095"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "49e59451-9ce9-4524-bcb8-0355ce8ac9e2": {
+      "type": "gallery",
+      "blocks": {
+        "template--16824268980535__49e59451-9ce9-4524-bcb8-0355ce8ac9e2-1667461909aa6a6d7e-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_514.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        }
+      },
+      "block_order": [
+        "template--16824268980535__49e59451-9ce9-4524-bcb8-0355ce8ac9e2-1667461909aa6a6d7e-0"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 2,
+        "image_height": 280,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "Acne",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "0529823c-5fee-459f-aafb-cd2814c66a18": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16824268980535__0529823c-5fee-459f-aafb-cd2814c66a18-166746168302d36f72-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Let us, Help You",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16824268980535__0529823c-5fee-459f-aafb-cd2814c66a18-166746168302d36f72-2"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "77ca480f-3a0b-4f58-bec4-430034fa3011",
+    "5b1665bb-93fe-4c2e-b567-2c74370235c8",
+    "32c641dd-3992-4063-807c-5a6487caeadd",
+    "881758ef-3d3b-48b9-b1fa-e212e996b869",
+    "7cdc418e-33a1-460e-8f65-cbe624cc3cbe",
+    "64c527ad-5a15-44da-951f-72c6412e3801",
+    "49e59451-9ce9-4524-bcb8-0355ce8ac9e2",
+    "0529823c-5fee-459f-aafb-cd2814c66a18"
   ]
 }

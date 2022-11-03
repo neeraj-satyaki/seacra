@@ -1,0 +1,605 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "22d71e1c-88aa-405f-8deb-623a3989029f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16735531532599__22d71e1c-88aa-405f-8deb-623a3989029f-1666872518983881d4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Privacy Policy",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "b31aeb1c-68e4-48ce-95c2-4e8e22a7683b": {
+          "type": "text",
+          "settings": {
+            "text": "<p>This Privacy Policy describes how seacra.com (the “Site” or “we”) collects, uses, and discloses your Personal Information when you visit or make a purchase from the Site.<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16735531532599__22d71e1c-88aa-405f-8deb-623a3989029f-1666872518983881d4-0",
+        "b31aeb1c-68e4-48ce-95c2-4e8e22a7683b"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "dabf0a38-9e9b-4d7a-85b9-1c2ba83ca556": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16735531532599__dabf0a38-9e9b-4d7a-85b9-1c2ba83ca556-1666872518983881d4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Collecting Personal Information",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--16735531532599__dabf0a38-9e9b-4d7a-85b9-1c2ba83ca556-1666872518983881d4-0"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "89c4e1fa-889a-4779-8233-459316196961": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "When you visit the Site, we collect certain information about your device, your interaction with the Site, and information necessary to process your purchases. We may also collect additional information if you contact us for customer support. In this Privacy Policy, we refer to any information that can uniquely identify an individual (including the information below) as “Personal Information”. See the list below for more information about what Personal Information we collect and why.",
+        "full_width": false,
+        "show_divider": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "c5f3e271-58f8-4bbb-a59d-05488bbbbafd": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16735531532599__c5f3e271-58f8-4bbb-a59d-05488bbbbafd-1666872518983881d4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Device Information",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--16735531532599__c5f3e271-58f8-4bbb-a59d-05488bbbbafd-1666872518983881d4-0"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "17ff9740-895b-4fbe-b722-47badd25e6d1": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "Examples of Personal Information collected: version of web browser, IP address, time zone, cookie information, what sites or products you view, search terms, and how you interact with the Site.\nPurpose of collection: to load the Site accurately for you, and to perform analytics on Site usage to optimize our Site.\nSourceofcollection: Collected automatically when you access our Site using cookies, log files, web beacons, tags, or pixels [ADD OR SUBTRACT ANY OTHER TRACKING TECHNOLOGIES USED].\nDisclosure for a business purpose: shared with our processor Shopify [ADD ANY OTHER VENDORS WITH WHOM YOU SHARE THIS INFORMATION].",
+        "full_width": false,
+        "show_divider": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "261ecd52-4fbe-4e7e-9205-2127e8365920": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16735531532599__261ecd52-4fbe-4e7e-9205-2127e8365920-1666872518983881d4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Order Information",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--16735531532599__261ecd52-4fbe-4e7e-9205-2127e8365920-1666872518983881d4-0"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "f2e14631-c4d0-4019-b708-6af4db57c6dc": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "Examples of Personal Information collected: [MODIFICATIONS TO THE INFORMATION LISTED ABOVE OR ADDITIONAL INFORMATION AS NEEDED]\nPurpose of collection: to provide customer support.\nSource of collection: collected from you.\nDisclosure for a business purpose: [ADD ANY VENDORS USED TO PROVIDE CUSTOMER SUPPORT]\n[INSERT ANY OTHER INFORMATION YOU COLLECT: OFFLINE DATA, PURCHASED MARKETING DATA\/LISTS]\n[INSERT FOLLOWING SECTION IF AGE RESTRICTION IS REQUIRED]",
+        "full_width": false,
+        "show_divider": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "fae45c54-36e7-4ed2-b459-7ebc4fe85c29": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16735531532599__fae45c54-36e7-4ed2-b459-7ebc4fe85c29-16669534818d013d23-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Customer support information",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--16735531532599__fae45c54-36e7-4ed2-b459-7ebc4fe85c29-16669534818d013d23-0"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "f90a29b7-89a2-435a-afb3-7c35b9fc90eb": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "Examples of Personal Information collected: [MODIFICATIONS TO THE INFORMATION LISTED ABOVE OR ADDITIONAL INFORMATION AS NEEDED]\nPurpose of collection: to provide customer support.\nSource of collection: collected from you.\nDisclosure for a business purpose: [ADD ANY VENDORS USED TO PROVIDE CUSTOMER SUPPORT]\n[INSERT ANY OTHER INFORMATION YOU COLLECT: OFFLINE DATA, PURCHASED MARKETING DATA\/LISTS]\n[INSERT FOLLOWING SECTION IF AGE RESTRICTION IS REQUIRED]",
+        "full_width": false,
+        "show_divider": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "48945cb1-6991-4303-9230-18a7b5689e10": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16735531532599__48945cb1-6991-4303-9230-18a7b5689e10-1666872518983881d4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Minors",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "9ac5b76d-1887-470f-a92a-0d95ff207f6d": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Site is not intended for individuals under the age of [INSERT AGE]. We do not intentionally collect Personal Information from children. If you are the parent or guardian and believe your child has provided us with Personal Information, please contact us at the address below to request deletion.<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16735531532599__48945cb1-6991-4303-9230-18a7b5689e10-1666872518983881d4-0",
+        "9ac5b76d-1887-470f-a92a-0d95ff207f6d"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "639f8075-b198-49fc-8c66-d879beea3a70": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16735531532599__639f8075-b198-49fc-8c66-d879beea3a70-1666872518983881d4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sharing Personal Information",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "c84b7525-2b70-40f9-9863-fda9dbdc9a25": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "We share your Personal Information with service providers to help us provide our services and fulfill our contracts with you, as described above. For example:"
+          }
+        },
+        "f714d202-11dc-4529-a83a-a22ee94dab07": {
+          "type": "text",
+          "settings": {
+            "text": "<p>For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at http:\/\/www.networkadvertising.org\/understanding-online-advertising\/how-does-it-work.<br\/>You can opt out of targeted advertising by:<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16735531532599__639f8075-b198-49fc-8c66-d879beea3a70-1666872518983881d4-0",
+        "c84b7525-2b70-40f9-9863-fda9dbdc9a25",
+        "f714d202-11dc-4529-a83a-a22ee94dab07"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "8cff433f-d0f8-4671-824d-a8a25ff0e6f4": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "We use Shopify to power our online store. You can read more about how Shopify uses your Personal Information here: https:\/\/www.shopify.com\/legal\/privacy.\nWe may share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.\n[INSERT INFORMATION ABOUT OTHER SERVICE PROVIDERS]\n[INCLUDE FOLLOWING SECTION IF USING REMARKETING OR TARGETED ADVERTISING]",
+        "full_width": false,
+        "show_divider": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "62a60a47-decc-4eea-9d37-c7f4b28cb5da": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "[INCLUDE OPT-OUT LINKS FROM WHICHEVER SERVICES BEING USED. COMMON LINKS INCLUDE:\nFACEBOOK - https:\/\/www.facebook.com\/settings\/?tab=ads\nGOOGLE - https:\/\/www.google.com\/settings\/ads\/anonymous\nBING - https:\/\/advertise.bingads.microsoft.com\/en-us\/resources\/policies\/personalized-ads]\nAdditionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at: http:\/\/optout.aboutads.info\/.",
+        "full_width": false,
+        "show_divider": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "519a73b5-3478-444a-95fe-361919b60089": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16735531532599__519a73b5-3478-444a-95fe-361919b60089-1666872518983881d4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Using Personal Information",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "f04241fc-1d56-4d55-8cd6-a694f018e838": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We use your personal Information to provide our services to you, which includes: offering products for sale, processing payments, shipping and fulfillment of your order, and keeping you up to date on new products, services, and offers.<br\/>[INCLUDE THE FOLLOWING SECTION IF YOUR STORE IS LOCATED IN OR IF YOU HAVE CUSTOMERS IN EUROPE]<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16735531532599__519a73b5-3478-444a-95fe-361919b60089-1666872518983881d4-0",
+        "f04241fc-1d56-4d55-8cd6-a694f018e838"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "96c40491-09f1-4d80-8750-0cc0bde2fa8d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16735531532599__96c40491-09f1-4d80-8750-0cc0bde2fa8d-1666872518983881d4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Lawful basis",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "91e80eab-a978-4458-b52d-983ca25ee9a8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pursuant to the General Data Protection Regulation (“GDPR”), if you are a resident of the European Economic Area (“EEA”), we process your personal information under the following lawful bases:<br\/><br\/>[INCLUDE ALL THAT APPLY TO YOUR BUSINESS]<br\/>Your consent;<br\/>The performance of the contract between you and the Site;<br\/>Compliance with our legal obligations;<br\/>To protect your vital interests;<br\/>To perform a task carried out in the public interest;<br\/>For our legitimate interests, which do not override your fundamental rights and freedoms.<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16735531532599__96c40491-09f1-4d80-8750-0cc0bde2fa8d-1666872518983881d4-0",
+        "91e80eab-a978-4458-b52d-983ca25ee9a8"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "b02748ae-ee3b-480c-a150-61f8e74a7030": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16735531532599__b02748ae-ee3b-480c-a150-61f8e74a7030-1666872518983881d4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Retention",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "3d34864e-e99a-4cf2-a50d-577befec4ee6": {
+          "type": "text",
+          "settings": {
+            "text": "<p>When you place an order through the Site, we will retain your Personal Information for our records unless and until you ask us to erase this information. For more information on your right of erasure, please see the ‘Your rights’ section below.<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16735531532599__b02748ae-ee3b-480c-a150-61f8e74a7030-1666872518983881d4-0",
+        "3d34864e-e99a-4cf2-a50d-577befec4ee6"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "98271fc4-9bb3-451d-9b37-41bfcabb4a0a": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16735531532599__98271fc4-9bb3-451d-9b37-41bfcabb4a0a-1666872518983881d4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Automatic decision-making",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--16735531532599__98271fc4-9bb3-451d-9b37-41bfcabb4a0a-1666872518983881d4-0"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "11780e2e-3f11-436f-bad7-122bce55f222": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "If you are a resident of the EEA, you have the right to object to processing based solely on automated decision-making (which includes profiling), when that decision-making has a legal effect on you or otherwise significantly affects you.\n\nWe [DO\/DO NOT] engage in fully automated decision-making that has a legal or otherwise significant effect using customer data.\nOur processor Shopify uses limited automated decision-making to prevent fraud that does not have a legal or otherwise significant effect on you.\n\nServices that include elements of automated decision-making include:\nTemporary denylist of IP addresses associated with repeated failed transactions. This denylist persists for a small number of hours.\nTemporary denylist of credit cards associated with denylisted IP addresses. This denylist persists for a small number of days.\n[INCLUDE THE FOLLOWING SECTION ONLY IF YOU SELL PERSONAL INFORMATION, AS DEFINED BY THE CALIFORNIA CONSUMER PRIVACY ACT]",
+        "full_width": false,
+        "show_divider": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "3ee64ae1-d539-4919-922c-2af078923a49": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16735531532599__3ee64ae1-d539-4919-922c-2af078923a49-1666872518983881d4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Selling Personal Information",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "5efff8cf-13ca-4e1a-ada9-348b9dce3df9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our Site sells Personal Information, as defined by the California Consumer Privacy Act of 2018 (“CCPA”).<br\/><br\/>[INSERT:<br\/>CATEGORIES OF INFORMATION SOLD;<br\/>INSTRUCTIONS ON HOW TO OPT-OUT OF SALE;<br\/>WHETHER YOUR BUSINESS SELLS INFORMATION OF MINORS (UNDER 16) AND WHETHER YOU OBTAIN AFFIRMATIVE AUTHORIZATION;<br\/>IF YOU PROVIDE A FINANCIAL INCENTIVE TO NOT SELL INFORMATION, PROVIDE INFORMATION ABOUT WHAT THAT INCENTIVE IS.]<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16735531532599__3ee64ae1-d539-4919-922c-2af078923a49-1666872518983881d4-0",
+        "5efff8cf-13ca-4e1a-ada9-348b9dce3df9"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "b5bb20f1-96b7-464c-95f8-ef14a5386104": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16735531532599__b5bb20f1-96b7-464c-95f8-ef14a5386104-1666872518983881d4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "GDPR",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--16735531532599__b5bb20f1-96b7-464c-95f8-ef14a5386104-1666872518983881d4-0"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "09e4044c-4ff0-4265-9b3d-83c182241272": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "If you are a resident of the EEA, you have the right to access the Personal Information we hold about you, to port it to a new service, and to ask that your Personal Information be corrected, updated, or erased. If you would like to exercise these rights, please contact us through the contact information below [OR INSERT ALTERNATIVE INSTRUCTIONS FOR SENDING ACCESS, ERASURE, CORRECTION, AND PORTABILITY REQUESTS].Your Personal Information will be initially processed in Ireland and then will be transferred outside of Europe for storage and further processing, including to Canada and the United States. For more information on how data transfers comply with the GDPR, see Shopify’s GDPR Whitepaper: https:\/\/help.shopify.com\/en\/manual\/your-account\/privacy\/GDPR.[INCLUDE FOLLOWING SECTION IF YOUR BUSINESS IS SUBJECT TO THE CALIFORNIA CONSUMER PRIVACY ACT]",
+        "full_width": false,
+        "show_divider": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "ded79f1c-cd32-48cb-95f2-2d2483d3449b": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16735531532599__ded79f1c-cd32-48cb-95f2-2d2483d3449b-16669534818d013d23-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "CCPA",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--16735531532599__ded79f1c-cd32-48cb-95f2-2d2483d3449b-16669534818d013d23-0"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "9f4f4be2-c42d-4071-94f9-c51dd643d033": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "If you are a resident of California, you have the right to access the Personal Information we hold about you (also known as the ‘Right to Know’), to port it to a new service, and to ask that your Personal Information be corrected, updated, or erased. If you would like to exercise these rights, please contact us through the contact information below [OR INSERT ALTERNATIVE INSTRUCTIONS FOR SENDING ACCESS, ERASURE, CORRECTION, AND PORTABILITY REQUESTS].If you would like to designate an authorized agent to submit these requests on your behalf, please contact us at the address below.",
+        "full_width": false,
+        "show_divider": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "22d71e1c-88aa-405f-8deb-623a3989029f",
+    "dabf0a38-9e9b-4d7a-85b9-1c2ba83ca556",
+    "89c4e1fa-889a-4779-8233-459316196961",
+    "c5f3e271-58f8-4bbb-a59d-05488bbbbafd",
+    "17ff9740-895b-4fbe-b722-47badd25e6d1",
+    "261ecd52-4fbe-4e7e-9205-2127e8365920",
+    "f2e14631-c4d0-4019-b708-6af4db57c6dc",
+    "fae45c54-36e7-4ed2-b459-7ebc4fe85c29",
+    "f90a29b7-89a2-435a-afb3-7c35b9fc90eb",
+    "48945cb1-6991-4303-9230-18a7b5689e10",
+    "639f8075-b198-49fc-8c66-d879beea3a70",
+    "8cff433f-d0f8-4671-824d-a8a25ff0e6f4",
+    "62a60a47-decc-4eea-9d37-c7f4b28cb5da",
+    "519a73b5-3478-444a-95fe-361919b60089",
+    "96c40491-09f1-4d80-8750-0cc0bde2fa8d",
+    "b02748ae-ee3b-480c-a150-61f8e74a7030",
+    "98271fc4-9bb3-451d-9b37-41bfcabb4a0a",
+    "11780e2e-3f11-436f-bad7-122bce55f222",
+    "3ee64ae1-d539-4919-922c-2af078923a49",
+    "b5bb20f1-96b7-464c-95f8-ef14a5386104",
+    "09e4044c-4ff0-4265-9b3d-83c182241272",
+    "ded79f1c-cd32-48cb-95f2-2d2483d3449b",
+    "9f4f4be2-c42d-4071-94f9-c51dd643d033"
+  ]
+}

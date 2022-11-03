@@ -2,9 +2,10 @@
   "sections": {
     "main": {
       "type": "main-search",
+      "disabled": true,
       "settings": {
         "products_per_row": 4,
-        "rows_per_page": 3,
+        "rows_per_page": 9,
         "columns_mobile": "2",
         "pagination": "paginated",
         "enable_sticky_facet": true,
@@ -12,7 +13,7 @@
         "enable_viewing": true,
         "enable_filtering": true,
         "filter_type": "vertical",
-        "enable_filtering_color_swatches": false,
+        "enable_filtering_color_swatches": true,
         "filtering_color_swatches_add_label": false,
         "filtering_max_items": 6,
         "image_ratio": "portrait",
@@ -30,6 +31,661 @@
         "article_show_comment_count": true,
         "padding_top": 36,
         "padding_bottom": 60
+      }
+    },
+    "88c4c3d5-c1fd-4623-944e-3480bf58bda8": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16735531041079__88c4c3d5-c1fd-4623-944e-3480bf58bda8-1667375837527f7228-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sustainable for your SKIN & OUR PLANET",
+            "heading_size": "h2",
+            "heading_tag": "h6"
+          }
+        },
+        "template--16735531041079__88c4c3d5-c1fd-4623-944e-3480bf58bda8-1667375837527f7228-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In Partnership With<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "3c810767-c02e-49bc-a97f-72cc0d1628ce": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Eden Reforestation Projects",
+            "subheading_size": "h5",
+            "secondary_color": false
+          }
+        },
+        "c8d9159f-c0ba-4979-8fbc-424588b5a1bc": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Process",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        },
+        "349a5246-27dc-47d2-acdd-571bb15ef84a": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We make our skincare product range in an eco-friendly & sustainable manner by adding value to the world around us.<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16735531041079__88c4c3d5-c1fd-4623-944e-3480bf58bda8-1667375837527f7228-0",
+        "template--16735531041079__88c4c3d5-c1fd-4623-944e-3480bf58bda8-1667375837527f7228-1",
+        "3c810767-c02e-49bc-a97f-72cc0d1628ce",
+        "c8d9159f-c0ba-4979-8fbc-424588b5a1bc",
+        "349a5246-27dc-47d2-acdd-571bb15ef84a"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Curves_2_1_4.png",
+        "image_position": "center center",
+        "text_box_position": "middle-center",
+        "text_alignment": "center",
+        "image_ratio": "650px",
+        "show_text_box": false,
+        "full_width": true,
+        "show_divider": false,
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "auto",
+        "stack_images_on_mobile": true,
+        "show_text_below": true,
+        "colors_text": "#ffffff",
+        "colors_overlay": "#000000",
+        "colors_overlay_opacity": 32,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "a195f978-65d9-41be-8de1-c1893ee0bbc7": {
+      "type": "video-hero",
+      "blocks": {
+        "template--16735531041079__a195f978-65d9-41be-8de1-c1893ee0bbc7-1667375849215893f8-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "We plant a tree with every order",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        },
+        "template--16735531041079__a195f978-65d9-41be-8de1-c1893ee0bbc7-1667375849215893f8-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>By purchasing a Seacra® product, you are helping to replenish native trees and help alleviate extreme poverty through our ‘employ to plant’ environmental partnership with Eden Reforestation Projects. Our commitment to planting a minimum of 100,000 native trees in Madagascar has already been made. This specific region has been ravaged by illegal logging and clear cutting that has destroyed the natural ecosystem.<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "template--16735531041079__a195f978-65d9-41be-8de1-c1893ee0bbc7-1667375849215893f8-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "View more",
+            "button_link": "",
+            "button_size": "small",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16735531041079__a195f978-65d9-41be-8de1-c1893ee0bbc7-1667375849215893f8-0",
+        "template--16735531041079__a195f978-65d9-41be-8de1-c1893ee0bbc7-1667375849215893f8-1",
+        "template--16735531041079__a195f978-65d9-41be-8de1-c1893ee0bbc7-1667375849215893f8-2"
+      ],
+      "settings": {
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "text_box_position": "bottom-center",
+        "text_alignment": "center",
+        "image_ratio": "650px",
+        "show_text_box": false,
+        "full_width": true,
+        "show_divider": false,
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "auto",
+        "show_text_below": true,
+        "colors_text": "#ffffff",
+        "colors_overlay": "#000000",
+        "colors_overlay_opacity": 28,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "af049263-5870-4471-b2f6-6cfb923199dc": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16735531041079__af049263-5870-4471-b2f6-6cfb923199dc-1667375837ead628a2-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Giving back to the Environment",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        },
+        "template--16735531041079__af049263-5870-4471-b2f6-6cfb923199dc-1667375837ead628a2-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We want Seacra to be the number one sustainable choice for your skin and for our planet.<br\/>As we pump salt water from the sea for algae growth, it is returned to it with the same consistency. And since our ‘cold press’ process does not adversely affect the residual algae, it is returned as well to the sea once the job is complete. By growing the red algae, we are able to lower the carbon dioxide levels in the air through photosynthesis, thereby making a positive environmental impact. We're committed to protecting the environment by reducing our carbon footprint and by giving back to nature. <br\/><\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "template--16735531041079__af049263-5870-4471-b2f6-6cfb923199dc-1667375837ead628a2-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "View more",
+            "button_link": "",
+            "button_size": "small",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16735531041079__af049263-5870-4471-b2f6-6cfb923199dc-1667375837ead628a2-0",
+        "template--16735531041079__af049263-5870-4471-b2f6-6cfb923199dc-1667375837ead628a2-1",
+        "template--16735531041079__af049263-5870-4471-b2f6-6cfb923199dc-1667375837ead628a2-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pic_17_1.png",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "use_custom_colors": false,
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "6b50764f-01f5-4720-bb1f-9d3dba7005dc": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16735531041079__6b50764f-01f5-4720-bb1f-9d3dba7005dc-1667375848e73c5dba-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Refillable Products",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--16735531041079__6b50764f-01f5-4720-bb1f-9d3dba7005dc-1667375848e73c5dba-0"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "e0a99f22-7597-4053-8c20-6a7ff388f5cc": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16735531041079__e0a99f22-7597-4053-8c20-6a7ff388f5cc-1667375837ead628a2-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Not only is all of our packaging 100% recyclable, we’ve found a way to reduce further our carbon footprint. <\/p><p>We've created a refill range for all of our products available to purchase at a 15% discount.<br\/><\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "template--16735531041079__e0a99f22-7597-4053-8c20-6a7ff388f5cc-1667375837ead628a2-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop now",
+            "button_link": "",
+            "button_size": "small",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16735531041079__e0a99f22-7597-4053-8c20-6a7ff388f5cc-1667375837ead628a2-1",
+        "template--16735531041079__e0a99f22-7597-4053-8c20-6a7ff388f5cc-1667375837ead628a2-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Product_shot_1.png",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "use_custom_colors": false,
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e7066262-f296-4284-970a-e8707ddd603b": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "template--16735531041079__e7066262-f296-4284-970a-e8707ddd603b-1667375842f2b1d97e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Simply, Using less",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        },
+        "template--16735531041079__e7066262-f296-4284-970a-e8707ddd603b-1667375842f2b1d97e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>By using the natural red algae extract at the core of our products, we’re able to change the way your skin behaves. We target your skin problems, efficiently, without creating side-effects. <br\/>One product producing a myriad of benefits means fewer products are needed for healthy skin. And if fewer products are needed, fewer are produced resulting in less waste and natural resources utilised.<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16735531041079__e7066262-f296-4284-970a-e8707ddd603b-1667375842f2b1d97e-0",
+        "template--16735531041079__e7066262-f296-4284-970a-e8707ddd603b-1667375842f2b1d97e-1"
+      ],
+      "settings": {
+        "image_position": "center center",
+        "text_box_position": "flex-start",
+        "text_alignment": "right",
+        "image_ratio": "650px",
+        "full_width": true,
+        "show_divider": false,
+        "mobile_text_box_position": "image_first",
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "auto",
+        "colors_text": "#212326",
+        "colors_overlay": "#f3f3f3",
+        "colors_overlay_opacity": 92,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "cce4e85e-5266-47a4-985d-df3a3f029132": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16735531041079__cce4e85e-5266-47a4-985d-df3a3f029132-1667375848e73c5dba-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ready to plant yours?",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        },
+        "template--16735531041079__cce4e85e-5266-47a4-985d-df3a3f029132-1667375848e73c5dba-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop now",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16735531041079__cce4e85e-5266-47a4-985d-df3a3f029132-1667375848e73c5dba-0",
+        "template--16735531041079__cce4e85e-5266-47a4-985d-df3a3f029132-1667375848e73c5dba-2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "36e02c41-8b4c-4ab7-8c72-057c6f4ea4f9": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16735531041079__36e02c41-8b4c-4ab7-8c72-057c6f4ea4f9-1667375848e73c5dba-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Learn more about the regions where you are making a difference with",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        },
+        "template--16735531041079__36e02c41-8b4c-4ab7-8c72-057c6f4ea4f9-1667375848e73c5dba-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Eden Reforestation Projects<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16735531041079__36e02c41-8b4c-4ab7-8c72-057c6f4ea4f9-1667375848e73c5dba-0",
+        "template--16735531041079__36e02c41-8b4c-4ab7-8c72-057c6f4ea4f9-1667375848e73c5dba-1"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "c8c49cd7-169b-4e3b-bf6d-e153f4959cf6": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16735531041079__c8c49cd7-169b-4e3b-bf6d-e153f4959cf6-1667375837ead628a2-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Madagascar",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        },
+        "template--16735531041079__c8c49cd7-169b-4e3b-bf6d-e153f4959cf6-1667375837ead628a2-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Madagascar is more than just an island from an animated movie.<br\/>It’s a nation with over 200,000 species of plants and animals thta<br\/>doesn’t exist anywhere else in the world. But more than 90% of <br\/>Madagascar’s original forests have been destroyed. displacing<br\/>entire animal species and taking away the Malagasy’s ability<br\/>to farm and live on the land. Entire mangrove estuaries are gone,<br\/>leaving the bare earth to wash away into the sea. And now the<br\/>Malagasy people have no choice but to go into debt or sell<br\/>themselves and their families into slavery just to survive.   <\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16735531041079__c8c49cd7-169b-4e3b-bf6d-e153f4959cf6-1667375837ead628a2-0",
+        "template--16735531041079__c8c49cd7-169b-4e3b-bf6d-e153f4959cf6-1667375837ead628a2-1"
+      ],
+      "settings": {
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "use_custom_colors": false,
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1153e9c0-3c13-48cf-ba95-5d6f6d61b566": {
+      "type": "guarantees",
+      "blocks": {
+        "template--16735531041079__1153e9c0-3c13-48cf-ba95-5d6f6d61b566-1667375837c8614a16-0": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "plant",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Tree Planting",
+            "title_size": "h4",
+            "text": "<p>We’ve planted already 25,000<br\/>trees since we start in 2021 and a<br\/>commitment to plant minimum<br\/>100,000 trees has been made. <\/p>"
+          }
+        },
+        "79c9ccfb-8544-4165-bc85-30f04e36ae40": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "bottle",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Clean Chemistry",
+            "title_size": "h4",
+            "text": "<p>Our ingredients are 100% natural,<br\/>organic & locally sourced with<br\/>zero harmful chemicals or<br\/>materials.<\/p>"
+          }
+        },
+        "7331e0d6-c0d9-40c8-833d-9a0e355ce2ab": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "recycle",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Waste Reduction",
+            "title_size": "h3",
+            "text": "<p>We first reduce our intake of<br\/>waste and make our packaging<br\/>options 100% recyclable with<br\/>Re\/Fill option included. <\/p>"
+          }
+        },
+        "template--16735531041079__1153e9c0-3c13-48cf-ba95-5d6f6d61b566-1667375837c8614a16-1": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "truck",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Renewable Energy",
+            "title_size": "h3",
+            "text": "<p>We aimed to be powered by 100%<br\/>renewable energy by the end of <br\/>2030.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16735531041079__1153e9c0-3c13-48cf-ba95-5d6f6d61b566-1667375837c8614a16-0",
+        "79c9ccfb-8544-4165-bc85-30f04e36ae40",
+        "7331e0d6-c0d9-40c8-833d-9a0e355ce2ab",
+        "template--16735531041079__1153e9c0-3c13-48cf-ba95-5d6f6d61b566-1667375837c8614a16-1"
+      ],
+      "settings": {
+        "layout": "default",
+        "column_alignment": "center",
+        "horizontal_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "use_custom_colors": false,
+        "colors_icon": "#ffffff",
+        "colors_text": "#1a1b18",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "b4478a2f-7761-40bc-9989-eadbd256957b": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16735531041079__b4478a2f-7761-40bc-9989-eadbd256957b-1666861482594710f6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Get 10% off for your first order",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        },
+        "template--16735531041079__b4478a2f-7761-40bc-9989-eadbd256957b-1666861482594710f6-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Join us for exclusive offers, product launches, skincare tips & tricks and more.<br\/>(Plus a few surprises along the way)<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16735531041079__b4478a2f-7761-40bc-9989-eadbd256957b-1666861482594710f6-0",
+        "template--16735531041079__b4478a2f-7761-40bc-9989-eadbd256957b-1666861482594710f6-1"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "a83514c9-4ef3-4b6d-a76b-6379fcc639a6": {
+      "type": "newsletter",
+      "blocks": {
+        "template--16735531041079__a83514c9-4ef3-4b6d-a76b-6379fcc639a6-166737583621c20883-2": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "template--16735531041079__a83514c9-4ef3-4b6d-a76b-6379fcc639a6-166737583621c20883-2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "full_width": true,
+        "show_divider": true,
+        "colors_text": "#1a1b18",
+        "colors_border": "#d2d5d9",
+        "colors_background": "#efefef",
+        "gradient_background": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "94967c0a-e7a7-4c0d-b74c-2308c26cef1d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16735531041079__94967c0a-e7a7-4c0d-b74c-2308c26cef1d-1667375848e73c5dba-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Subscribe",
+            "button_link": "",
+            "button_size": "small",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16735531041079__94967c0a-e7a7-4c0d-b74c-2308c26cef1d-1667375848e73c5dba-2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "8d691a11-6e6c-4580-a7c3-a4ddbcd1fe37": {
+      "type": "guarantees",
+      "blocks": {
+        "template--16735531041079__8d691a11-6e6c-4580-a7c3-a4ddbcd1fe37-16668606558f0afab5-0": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "truck",
+            "icon_size": "large",
+            "custom_icon": "",
+            "title": "Free & Fast",
+            "title_size": "h3",
+            "text": "<p>Delivery Across the UK<\/p>"
+          }
+        },
+        "cde4a657-1a8d-479c-b59d-9dfaf6b51cd3": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "return",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Free Returns",
+            "title_size": "h3",
+            "text": "<p>Within 30 days<\/p>"
+          }
+        },
+        "template--16735531041079__8d691a11-6e6c-4580-a7c3-a4ddbcd1fe37-16668606558f0afab5-1": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "check_mark",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "97% Success",
+            "title_size": "h3",
+            "text": "<p>Rate in clinical trials<\/p>"
+          }
+        },
+        "c9467266-c02f-4927-8984-028ebf6173e5": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "silhouette",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Partnered",
+            "title_size": "h3",
+            "text": "<p>With Eden Reforestation Project<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16735531041079__8d691a11-6e6c-4580-a7c3-a4ddbcd1fe37-16668606558f0afab5-0",
+        "cde4a657-1a8d-479c-b59d-9dfaf6b51cd3",
+        "template--16735531041079__8d691a11-6e6c-4580-a7c3-a4ddbcd1fe37-16668606558f0afab5-1",
+        "c9467266-c02f-4927-8984-028ebf6173e5"
+      ],
+      "settings": {
+        "layout": "default",
+        "column_alignment": "center",
+        "horizontal_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "use_custom_colors": false,
+        "colors_icon": "#ffffff",
+        "colors_text": "#1a1b18",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "recently-viewed": {
@@ -59,6 +715,20 @@
   },
   "order": [
     "main",
+    "88c4c3d5-c1fd-4623-944e-3480bf58bda8",
+    "a195f978-65d9-41be-8de1-c1893ee0bbc7",
+    "af049263-5870-4471-b2f6-6cfb923199dc",
+    "6b50764f-01f5-4720-bb1f-9d3dba7005dc",
+    "e0a99f22-7597-4053-8c20-6a7ff388f5cc",
+    "e7066262-f296-4284-970a-e8707ddd603b",
+    "cce4e85e-5266-47a4-985d-df3a3f029132",
+    "36e02c41-8b4c-4ab7-8c72-057c6f4ea4f9",
+    "c8c49cd7-169b-4e3b-bf6d-e153f4959cf6",
+    "1153e9c0-3c13-48cf-ba95-5d6f6d61b566",
+    "b4478a2f-7761-40bc-9989-eadbd256957b",
+    "a83514c9-4ef3-4b6d-a76b-6379fcc639a6",
+    "94967c0a-e7a7-4c0d-b74c-2308c26cef1d",
+    "8d691a11-6e6c-4580-a7c3-a4ddbcd1fe37",
     "recently-viewed"
   ]
 }
